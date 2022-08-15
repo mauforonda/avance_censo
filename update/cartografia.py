@@ -25,7 +25,7 @@ def get_departamento(departamento):
         data = data.sort_values(['total_viv', 'total']).drop_duplicates(subset=['id_upm'], keep='last')
         data.columns = header
         data.departamento = departamento['nombre']
-        data.to_csv('data/cartografia/{}.csv'.format(departamento['nombre']), index=False)
+        data.to_csv('data/cartografia/departamentos/{}.csv'.format(departamento['nombre']), index=False)
         resumen.append(data.groupby(['departamento', 'provincia', 'municipio'])[['viviendas_2012', 'viviendas_2022']].sum().reset_index())
 
 def update_timeline(resumen):
