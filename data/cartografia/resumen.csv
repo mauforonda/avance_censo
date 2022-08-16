@@ -1,20 +1,19 @@
 departamento,provincia,municipio,viviendas_2012,viviendas_2022
-oruro,CERCADO,ORURO,88240,169659
-potosi,ANTONIO QUIJARRO,PORCO,2576,4307
-potosi,CORNELIO SAAVEDRA,BETANZOS,1828,4166
-potosi,JOSE MARIA LINAREZ,"CAIZA ""D""",289,512
-potosi,JOSE MARIA LINAREZ,PUNA,133,437
-potosi,TOMAS FRIAS,POTOSI,50548,89324
-tarija,CERCADO,TARIJA,302,405
-santa_cruz,ANDRES IBAÑEZ,SANTA CRUZ,49834,77915
-beni,CERCADO,TRINIDAD,26198,48733
-beni,GRAL. JOSE BALLIVIAN,SAN BORJA,3893,7678
-beni,MARBAN,LORETO,66,120
-beni,MARBAN,SAN ANDRES,117,198
-beni,VACA DIEZ,GUAYARAMERIN,144,239
-beni,VACA DIEZ,RIBERALTA,18265,39211
-beni,Vaca Diez,GUAYARAMERIN,5022,9741
-pando,MADRE DE DIOS,SAN LORENZO,0,467
-pando,MANURIPI,PUERTO RICO,551,1606
-pando,NICOLAS SUAREZ,COBIJA,13423,24074
-pando,NICOLAS SUAREZ,PORVENIR,1175,2177
+beni,cercado,trinidad,26198,48733
+beni,gral. jose ballivian,san borja,3893,7678
+beni,marban,loreto,66,120
+beni,marban,san andres,117,198
+beni,vaca diez,guayaramerin,5166,9980
+beni,vaca diez,riberalta,18265,39211
+oruro,cercado,oruro,88240,169659
+pando,madre de dios,san lorenzo,0,467
+pando,manuripi,puerto rico,551,1606
+pando,nicolas suarez,cobija,13423,24074
+pando,nicolas suarez,porvenir,1175,2177
+potosi,antonio quijarro,porco,2576,4307
+potosi,cornelio saavedra,betanzos,1828,4166
+potosi,jose maria linarez,"caiza ""d""",289,512
+potosi,jose maria linarez,puna,133,437
+potosi,tomas frias,potosi,50548,89324
+santa_cruz,andres ibañez,santa cruz,49834,77915
+tarija,cercado,tarija,302,405

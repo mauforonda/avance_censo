@@ -1,5 +1,5 @@
-departamento,oruro,potosi,potosi,potosi,tarija,santa_cruz,beni,beni,beni,beni,beni,beni,beni,pando,pando,pando,pando,potosi,potosi
-provincia,CERCADO,ANTONIO QUIJARRO,CORNELIO SAAVEDRA,TOMAS FRIAS,CERCADO,ANDRES IBAÑEZ,CERCADO,GRAL. JOSE BALLIVIAN,MARBAN,MARBAN,VACA DIEZ,VACA DIEZ,Vaca Diez,MADRE DE DIOS,MANURIPI,NICOLAS SUAREZ,NICOLAS SUAREZ,JOSE MARIA LINAREZ,JOSE MARIA LINAREZ
-municipio,ORURO,PORCO,BETANZOS,POTOSI,TARIJA,SANTA CRUZ,TRINIDAD,SAN BORJA,LORETO,SAN ANDRES,GUAYARAMERIN,RIBERALTA,GUAYARAMERIN,SAN LORENZO,PUERTO RICO,COBIJA,PORVENIR,"CAIZA ""D""",PUNA
-2022-08-14,169587,4307,4166,89324,496,78689,48733,8030,155,198,239,38318,7989,467,753,24074,2177,0,0
-2022-08-15,169659,4307,4166,89324,405,77915,48733,7678,120,198,239,39211,9741,467,1606,24074,2177,512,437
+departamento,beni,beni,beni,beni,beni,beni,oruro,pando,pando,pando,pando,potosi,potosi,potosi,potosi,potosi,santa_cruz,tarija
+provincia,cercado,gral. jose ballivian,marban,marban,vaca diez,vaca diez,cercado,madre de dios,manuripi,nicolas suarez,nicolas suarez,antonio quijarro,cornelio saavedra,jose maria linarez,jose maria linarez,tomas frias,andres ibañez,cercado
+municipio,trinidad,san borja,loreto,san andres,guayaramerin,riberalta,oruro,san lorenzo,puerto rico,cobija,porvenir,porco,betanzos,"caiza ""d""",puna,potosi,santa cruz,tarija
+2022-08-14,48733,8030,155,198,8228,38318,169587,467,753,24074,2177,4307,4166,0,0,89324,78689,496
+2022-08-15,48733,7678,120,198,9980,39211,169659,467,1606,24074,2177,4307,4166,512,437,89324,77915,405

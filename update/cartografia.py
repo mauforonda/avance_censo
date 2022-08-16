@@ -25,6 +25,8 @@ def get_departamento(departamento):
         data = data.sort_values(['total_viv', 'total']).drop_duplicates(subset=['id_upm'], keep='last')
         data.columns = header
         data.departamento = departamento['nombre']
+        for col in ['provincia', 'municipio']:
+            data[col] = data[col].apply(lambda x: normalize(x))
         data.to_csv('data/cartografia/departamentos/{}.csv'.format(departamento['nombre']), index=False)
         resumen.append(data.groupby(['departamento', 'provincia', 'municipio'])[['viviendas_2012', 'viviendas_2022']].sum().reset_index())
 
@@ -38,8 +40,11 @@ def update_timeline(resumen):
         timeline = pd.concat([old, timeline]).fillna(0).astype(int)
     timeline.to_csv(fn)
 
+def normalize(text):
+    return text.lower().strip()
+
 for departamento in departamentos:
     get_departamento(departamento)
 resumen = pd.concat(resumen)
-resumen.to_csv('data/cartografia/resumen.csv', index=False)
+resumen.sort_values(['departamento', 'provincia', 'municipio']).to_csv('data/cartografia/resumen.csv', index=False)
 update_timeline(resumen)
