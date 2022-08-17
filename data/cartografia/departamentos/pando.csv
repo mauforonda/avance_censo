@@ -5,6 +5,8 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 3727,903727,pando,nicolas suarez,porvenir,1,1001,1,18,1,0,17,2022-08-08T21:04:37.765Z
 1862,901862,pando,nicolas suarez,cobija,6,1001,3,11,6,0,26,2022-07-13T15:54:40.033Z
 3742,903742,pando,nicolas suarez,porvenir,1,1001,1,12,1,0,26,2022-08-02T16:32:48.956Z
+3994,903994,pando,manuripi,puerto rico,1,1001,1,16,1,0,33,2022-08-16T13:31:45.379Z
+3996,903996,pando,manuripi,puerto rico,1,1001,1,17,1,0,35,2022-08-16T13:31:48.483Z
 1705,901705,pando,nicolas suarez,cobija,6,1001,1,5,6,0,37,2022-07-18T19:40:50.459Z
 1596,901596,pando,nicolas suarez,cobija,6,1001,1,2,6,0,39,2022-07-20T18:27:24.985Z
 3770,903770,pando,nicolas suarez,porvenir,1,1001,1,15,1,0,39,2022-08-02T21:31:00.722Z
@@ -21,6 +23,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 122,900122,pando,nicolas suarez,cobija,2,1001,2,10,2,0,64,2022-07-20T18:48:40.086Z
 1857,901857,pando,nicolas suarez,cobija,6,1001,3,18,6,0,65,2022-07-18T19:55:32.986Z
 3965,903965,pando,manuripi,puerto rico,1,1001,1,12,1,0,66,2022-08-15T18:54:14.388Z
+3997,903997,pando,manuripi,puerto rico,1,1001,1,18,1,0,67,2022-08-16T13:06:11.587Z
 1715,901715,pando,nicolas suarez,cobija,6,1001,2,14,6,0,69,2022-07-18T19:41:08.361Z
 4001,904001,pando,madre de dios,san lorenzo,1,1001,1,5,1,0,74,2022-08-12T13:32:56.848Z
 1683,901683,pando,nicolas suarez,cobija,6,1001,3,7,6,0,75,2022-07-23T15:56:44.392Z
@@ -34,6 +37,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 1863,901863,pando,nicolas suarez,cobija,6,1001,3,16,6,0,92,2022-07-21T21:40:27.467Z
 1720,901720,pando,nicolas suarez,cobija,6,1001,3,4,6,0,94,2022-07-17T19:15:14.380Z
 1677,901677,pando,nicolas suarez,cobija,6,1001,2,13,6,0,96,2022-07-23T15:56:42.306Z
+3968,903968,pando,manuripi,puerto rico,1,1001,1,13,1,0,96,2022-08-16T13:04:50.923Z
 4016,904016,pando,madre de dios,san lorenzo,1,1001,1,2,1,0,108,2022-08-12T00:45:18.959Z
 1616,901616,pando,nicolas suarez,cobija,6,1001,3,6,6,0,109,2022-07-18T19:39:44.251Z
 1250,901250,pando,nicolas suarez,cobija,6,1001,1,3,6,0,117,2022-07-18T19:56:57.466Z
@@ -50,6 +54,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 1622,901622,pando,nicolas suarez,cobija,6,1001,2,8,6,1,54,2022-07-21T19:55:29.763Z
 1700,901700,pando,nicolas suarez,cobija,6,1001,2,4,6,1,84,2022-07-18T19:57:16.525Z
 3714,903714,pando,nicolas suarez,porvenir,1,1002,1,1,1,2,64,2022-08-05T14:00:13.806Z
+4006,904006,pando,madre de dios,puerto gonzalo moreno,1,1001,1,3,1,3,70,2022-08-16T15:29:48.193Z
 48,900048,pando,nicolas suarez,cobija,1,1001,2,9,1,4,7,2022-07-20T14:48:49.156Z
 1621,901621,pando,nicolas suarez,cobija,6,1001,1,11,6,5,52,2022-07-23T15:56:30.444Z
 1877,901877,pando,nicolas suarez,cobija,6,1001,4,13,6,5,56,2022-07-18T19:41:26.364Z
@@ -57,6 +62,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 2061,902061,pando,nicolas suarez,cobija,6,1001,4,16,6,6,70,2022-07-21T20:06:46.977Z
 1875,901875,pando,nicolas suarez,cobija,6,1001,4,5,6,6,86,2022-07-17T19:15:28.499Z
 3730,903730,pando,nicolas suarez,porvenir,1,1002,1,2,1,6,86,2022-08-03T19:57:41.284Z
+4021,904021,pando,madre de dios,puerto gonzalo moreno,1,1001,1,2,1,7,23,2022-08-16T18:38:02.159Z
 2412,902412,pando,nicolas suarez,cobija,5,1001,1,6,5,7,69,2022-07-20T15:04:08.181Z
 3671,903671,pando,nicolas suarez,porvenir,1,1001,1,11,1,8,31,2022-08-02T18:47:20.448Z
 2429,902429,pando,nicolas suarez,cobija,5,1001,1,4,5,8,45,2022-07-20T19:41:42.162Z
@@ -65,6 +71,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 2062,902062,pando,nicolas suarez,cobija,6,1001,4,15,6,11,123,2022-07-08T20:41:14.420Z
 3757,903757,pando,nicolas suarez,porvenir,1,1002,1,3,1,13,38,2022-08-06T14:04:34.214Z
 2054,902054,pando,nicolas suarez,cobija,6,1001,4,10,6,13,175,2022-07-20T16:00:09.411Z
+4023,904023,pando,madre de dios,puerto gonzalo moreno,1,1001,1,4,1,14,47,2022-08-16T15:29:34.018Z
 3981,903981,pando,manuripi,puerto rico,1,1001,1,15,1,14,82,2022-08-15T18:53:13.081Z
 3740,903740,pando,nicolas suarez,porvenir,1,1001,1,5,1,16,31,2022-08-02T13:25:49.769Z
 2404,902404,pando,nicolas suarez,cobija,5,1001,1,11,5,16,51,2022-07-18T21:55:27.951Z
@@ -75,14 +82,17 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 1712,901712,pando,nicolas suarez,cobija,6,1001,2,5,6,18,90,2022-07-18T21:00:46.378Z
 2413,902413,pando,nicolas suarez,cobija,5,1001,1,12,5,19,42,2022-07-18T20:06:31.286Z
 3778,903778,pando,nicolas suarez,porvenir,1,1001,1,13,1,20,46,2022-08-02T20:25:14.944Z
+4012,904012,pando,madre de dios,puerto gonzalo moreno,1,1002,1,4,1,20,53,2022-08-16T22:16:54.033Z
 2421,902421,pando,nicolas suarez,cobija,5,1001,1,3,5,20,63,2022-07-15T13:48:00.432Z
 1606,901606,pando,nicolas suarez,cobija,6,1001,1,7,6,20,71,2022-07-18T19:39:15.826Z
 3738,903738,pando,nicolas suarez,porvenir,1,1002,1,16,1,20,78,2022-08-05T20:56:58.838Z
+4027,904027,pando,madre de dios,puerto gonzalo moreno,1,1002,1,3,1,20,113,2022-08-16T18:38:39.546Z
 3752,903752,pando,nicolas suarez,porvenir,1,1001,1,8,1,22,32,2022-08-02T20:08:36.548Z
 3954,903954,pando,manuripi,puerto rico,1,1001,1,3,1,22,59,2022-08-13T14:34:14.075Z
 2398,902398,pando,nicolas suarez,cobija,5,1001,1,5,5,24,61,2022-07-20T19:41:14.325Z
 1861,901861,pando,nicolas suarez,cobija,6,1001,4,11,6,24,146,2022-07-18T20:41:50.800Z
 3774,903774,pando,nicolas suarez,porvenir,1,1002,1,17,1,26,25,2022-08-06T13:13:42.191Z
+4025,904025,pando,madre de dios,puerto gonzalo moreno,1,1002,1,2,1,26,49,2022-08-16T18:38:42.051Z
 3767,903767,pando,nicolas suarez,porvenir,1,1001,1,6,1,26,50,2022-08-02T19:51:55.447Z
 112,900112,pando,nicolas suarez,cobija,2,1001,1,4,2,26,62,2022-07-29T14:00:36.788Z
 3735,903735,pando,nicolas suarez,porvenir,1,1002,1,19,1,28,35,2022-08-05T13:27:07.063Z
@@ -90,7 +100,9 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 3722,903722,pando,nicolas suarez,porvenir,1,1001,1,3,1,30,35,2022-08-02T13:03:27.305Z
 3723,903723,pando,nicolas suarez,porvenir,1,1001,1,4,1,30,50,2022-08-15T18:47:42.979Z
 3664,903664,pando,nicolas suarez,porvenir,1,1001,1,2,1,30,52,2022-08-04T14:55:46.856Z
+3960,903960,pando,manuripi,puerto rico,1,1001,1,7,1,30,55,2022-08-16T13:04:45.520Z
 2060,902060,pando,nicolas suarez,cobija,6,1001,4,12,6,31,94,2022-07-18T21:30:14.868Z
+4008,904008,pando,madre de dios,puerto gonzalo moreno,1,1001,1,5,1,32,41,2022-08-16T15:29:46.077Z
 3668,903668,pando,nicolas suarez,porvenir,1,1001,1,10,1,34,42,2022-08-03T19:50:58.562Z
 2402,902402,pando,nicolas suarez,cobija,5,1001,1,10,5,34,68,2022-07-18T18:28:16.715Z
 3776,903776,pando,nicolas suarez,porvenir,1,1002,1,7,1,35,59,2022-08-06T16:47:56.363Z
@@ -100,7 +112,6 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 1865,901865,pando,nicolas suarez,cobija,6,1001,4,8,6,39,92,2022-07-21T19:55:58.912Z
 13,900013,pando,nicolas suarez,cobija,1,1001,1,10,1,40,53,2022-07-20T14:48:33.893Z
 148,900148,pando,nicolas suarez,cobija,2,1001,1,7,2,41,59,2022-07-20T14:52:17.436Z
-3769,903769,pando,nicolas suarez,porvenir,1,1001,1,7,1,44,57,2022-08-04T22:53:29.773Z
 2433,902433,pando,nicolas suarez,cobija,5,1001,1,9,5,44,64,2022-07-18T18:43:32.809Z
 1619,901619,pando,nicolas suarez,cobija,6,1001,1,9,6,44,76,2022-07-21T19:55:26.129Z
 3957,903957,pando,manuripi,puerto rico,1,1001,1,4,1,44,136,2022-08-13T14:34:23.098Z
@@ -117,6 +128,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 3758,903758,pando,nicolas suarez,porvenir,1,1002,1,4,1,51,56,2022-08-06T14:04:40.232Z
 3720,903720,pando,nicolas suarez,porvenir,1,1002,1,20,1,53,67,2022-08-15T18:43:32.479Z
 2418,902418,pando,nicolas suarez,cobija,5,1001,1,7,5,53,243,2022-07-23T15:56:11.744Z
+4014,904014,pando,madre de dios,puerto gonzalo moreno,1,1002,1,5,1,56,49,2022-08-16T22:17:00.039Z
 47,900047,pando,nicolas suarez,cobija,1,1001,2,8,1,56,67,2022-07-21T19:57:05.174Z
 759,900759,pando,nicolas suarez,cobija,4,1001,3,10,4,58,100,2022-07-21T19:57:29.332Z
 3979,903979,pando,manuripi,puerto rico,1,1001,1,14,1,58,112,2022-08-15T18:53:06.696Z
@@ -136,6 +148,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 40,900040,pando,nicolas suarez,cobija,1,1001,1,9,1,68,77,2022-07-20T21:05:45.332Z
 467,900467,pando,nicolas suarez,cobija,4,1001,3,6,4,68,81,2022-07-17T00:01:03.455Z
 107,900107,pando,nicolas suarez,cobija,1,1001,1,5,1,69,67,2022-07-21T20:00:17.491Z
+4024,904024,pando,madre de dios,puerto gonzalo moreno,1,1001,1,6,1,69,85,2022-08-16T15:29:36.506Z
 782,900782,pando,nicolas suarez,cobija,4,1001,4,14,4,69,101,2022-07-19T16:38:31.229Z
 3773,903773,pando,nicolas suarez,porvenir,1,1002,1,8,1,69,110,2022-08-06T13:13:32.517Z
 1612,901612,pando,nicolas suarez,cobija,6,1001,2,11,6,70,27,2022-07-18T19:39:34.583Z
@@ -168,6 +181,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 3766,903766,pando,nicolas suarez,porvenir,1,1002,1,14,1,80,112,2022-08-06T16:53:42.282Z
 1208,901208,pando,nicolas suarez,cobija,6,1001,1,15,6,80,138,2022-07-18T19:34:43.553Z
 21,900021,pando,nicolas suarez,cobija,1,1001,1,3,1,81,85,2022-07-13T15:15:49.647Z
+4003,904003,pando,madre de dios,puerto gonzalo moreno,1,1001,1,1,1,81,90,2022-08-16T15:29:50.288Z
 1699,901699,pando,nicolas suarez,cobija,6,1001,1,12,6,81,116,2022-07-18T21:30:21.322Z
 804,900804,pando,nicolas suarez,cobija,4,1001,4,7,4,83,99,2022-07-16T22:16:37.511Z
 797,900797,pando,nicolas suarez,cobija,4,1001,4,3,4,83,114,2022-07-25T18:06:16.159Z
@@ -189,6 +203,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 110,900110,pando,nicolas suarez,cobija,1,1001,2,2,1,89,98,2022-07-20T15:54:08.682Z
 756,900756,pando,nicolas suarez,cobija,4,1001,3,9,4,89,158,2022-07-26T13:34:29.921Z
 1204,901204,pando,nicolas suarez,cobija,4,1001,2,8,4,89,184,2022-07-21T20:27:03.120Z
+4010,904010,pando,madre de dios,puerto gonzalo moreno,1,1002,1,1,1,90,94,2022-08-16T22:16:49.853Z
 1238,901238,pando,nicolas suarez,cobija,4,1001,2,1,4,90,197,2022-07-20T21:06:34.908Z
 102,900102,pando,nicolas suarez,cobija,1,1001,1,6,1,91,91,2022-07-21T20:00:15.565Z
 15,900015,pando,nicolas suarez,cobija,1,1001,1,8,1,91,93,2022-07-12T16:13:34.709Z
@@ -201,7 +216,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 3733,903733,pando,nicolas suarez,porvenir,1,1002,1,18,1,92,128,2022-08-15T18:47:32.725Z
 1691,901691,pando,nicolas suarez,cobija,6,1001,1,17,6,92,131,2022-07-18T19:57:03.717Z
 1200,901200,pando,nicolas suarez,cobija,4,1001,1,14,4,92,141,2022-07-16T22:15:57.345Z
-787,900787,pando,nicolas suarez,cobija,4,1001,1,3,4,92,188,2022-07-20T15:52:18.811Z
+787,900787,pando,nicolas suarez,cobija,4,1001,1,3,4,92,188,2022-08-16T20:15:00.807Z
 1610,901610,pando,nicolas suarez,cobija,6,1001,2,2,6,92,210,2022-07-18T20:54:07.816Z
 1215,901215,pando,nicolas suarez,cobija,4,1001,1,15,4,93,146,2022-07-21T19:57:47.817Z
 437,900437,pando,nicolas suarez,cobija,3,1001,1,1,3,94,92,2022-07-21T23:30:21.494Z
@@ -238,6 +253,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 1148,901148,pando,nicolas suarez,cobija,4,1001,1,13,4,119,215,2022-07-21T22:50:49.211Z
 1239,901239,pando,nicolas suarez,cobija,4,1001,2,7,4,119,224,2022-07-21T20:21:52.503Z
 796,900796,pando,nicolas suarez,cobija,4,1001,3,7,4,120,149,2022-07-21T20:39:01.043Z
+3949,903949,pando,manuripi,puerto rico,1,1001,1,1,1,121,195,2022-08-16T13:04:40.016Z
 552,900552,pando,nicolas suarez,cobija,3,1001,1,6,3,122,146,2022-07-21T16:11:51.994Z
 1224,901224,pando,nicolas suarez,cobija,4,1001,2,12,4,122,204,2022-07-23T16:00:00.719Z
 518,900518,pando,nicolas suarez,cobija,3,1001,1,14,3,123,204,2022-07-21T19:58:55.664Z
