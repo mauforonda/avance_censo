@@ -5,8 +5,10 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 1579,401579,oruro,cercado,oruro,3,1001,13,4,3,0,25,2022-08-12T19:37:59.321Z
 3153,403153,oruro,cercado,oruro,5,1001,1,2,5,0,26,2022-08-12T15:04:11.399Z
 3158,403158,oruro,cercado,oruro,5,1001,1,1,5,0,32,2022-08-08T02:36:49.413Z
+5090,405090,oruro,pantaleon dalence,villa huanuni,1,1001,1,1,1,0,35,2022-08-18T02:18:41.355Z
 4129,404129,oruro,cercado,oruro,5,1001,3,5,5,0,38,2022-08-12T21:39:48.740Z
 4156,404156,oruro,cercado,oruro,5,1001,4,12,5,0,42,2022-08-12T21:31:28.402Z
+5091,405091,oruro,pantaleon dalence,villa huanuni,1,1001,1,2,1,0,46,2022-08-18T02:06:06.060Z
 2038,402038,oruro,cercado,oruro,3,1001,22,15,3,0,60,2022-08-12T21:30:02.461Z
 3316,403316,oruro,cercado,oruro,7,1001,1,7,7,0,60,2022-08-02T14:04:51.045Z
 4154,404154,oruro,cercado,oruro,5,1001,3,14,5,0,63,2022-08-12T21:44:35.072Z
@@ -1045,6 +1047,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 3877,403877,oruro,cercado,oruro,5,1001,12,3,5,81,107,2022-08-12T21:38:26.350Z
 1056,401056,oruro,cercado,oruro,2,1001,12,10,2,81,110,2022-08-12T14:26:25.986Z
 2068,402068,oruro,cercado,oruro,1,1001,2,9,1,81,110,2022-07-22T23:01:28.154Z
+5157,405157,oruro,pantaleon dalence,villa huanuni,1,1001,1,17,1,81,110,2022-08-18T01:01:00.780Z
 1110,401110,oruro,cercado,oruro,2,1001,19,5,2,81,111,2022-06-15T21:10:04.224Z
 827,400827,oruro,cercado,oruro,2,1001,3,7,2,81,119,2022-08-12T15:33:29.439Z
 833,400833,oruro,cercado,oruro,2,1001,3,9,2,81,123,2022-08-12T15:33:27.199Z
@@ -1192,6 +1195,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 1670,401670,oruro,cercado,oruro,3,1001,18,7,3,89,160,2022-08-12T21:57:26.286Z
 405,400405,oruro,cercado,oruro,4,1001,3,6,4,89,164,2022-07-13T14:58:35.998Z
 1600,401600,oruro,cercado,oruro,3,1001,14,4,3,89,204,2022-08-12T21:20:50.017Z
+5174,405174,oruro,pantaleon dalence,villa huanuni,1,1001,2,15,1,89,204,2022-08-17T22:29:09.431Z
 637,400637,oruro,cercado,oruro,2,1001,3,3,2,89,221,2022-08-12T21:34:40.384Z
 2382,402382,oruro,cercado,oruro,1,1001,10,13,1,90,105,2022-08-05T22:52:34.604Z
 196,400196,oruro,cercado,oruro,3,1001,11,1,3,90,107,2022-08-12T21:56:33.306Z
@@ -1261,6 +1265,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 1105,401105,oruro,cercado,oruro,2,1001,16,11,2,95,121,2022-07-25T13:39:34.429Z
 897,400897,oruro,cercado,oruro,2,1001,9,10,2,95,126,2022-07-21T11:52:14.152Z
 3787,403787,oruro,cercado,oruro,5,1001,6,2,5,95,128,2022-08-12T23:18:49.064Z
+5146,405146,oruro,pantaleon dalence,villa huanuni,1,1001,1,6,1,95,132,2022-08-17T21:37:52.975Z
 1386,401386,oruro,cercado,oruro,3,1001,22,6,3,95,136,2022-08-12T21:29:40.846Z
 1716,401716,oruro,cercado,oruro,3,1001,20,9,3,95,141,2022-06-20T21:18:34.997Z
 2377,402377,oruro,cercado,oruro,1,1001,10,8,1,95,162,2022-07-20T15:41:25.829Z
