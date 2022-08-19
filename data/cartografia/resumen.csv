@@ -1,22 +1,23 @@
 departamento,provincia,municipio,viviendas_2012,viviendas_2022
-beni,cercado,trinidad,26198,48741
+beni,cercado,trinidad,26198,48743
 beni,gral. jose ballivian,san borja,4462,8914
 beni,marban,loreto,95,158
-beni,marban,san andres,117,203
-beni,vaca diez,guayaramerin,8286,16157
-beni,vaca diez,riberalta,18414,39540
+beni,marban,san andres,117,205
+beni,moxos,san ignacio,272,794
+beni,vaca diez,guayaramerin,8726,17165
+beni,vaca diez,riberalta,18414,39128
 beni,yacuma,santa ana de yacuma,76,103
 oruro,cercado,oruro,88240,169679
-oruro,pantaleon dalence,villa huanuni,265,527
+oruro,pantaleon dalence,villa huanuni,1039,1657
 pando,madre de dios,puerto gonzalo moreno,418,714
-pando,madre de dios,san lorenzo,0,467
-pando,manuripi,puerto rico,702,2087
+pando,madre de dios,san lorenzo,0,717
+pando,manuripi,puerto rico,702,2099
 pando,nicolas suarez,cobija,13423,24074
-pando,nicolas suarez,porvenir,1131,2120
+pando,nicolas suarez,porvenir,1175,2180
 potosi,antonio quijarro,porco,2576,4307
-potosi,cornelio saavedra,betanzos,1828,4166
-potosi,jose maria linarez,"caiza ""d""",731,1261
-potosi,jose maria linarez,puna,847,1463
+potosi,cornelio saavedra,betanzos,1828,4168
+potosi,jose maria linarez,"caiza ""d""",844,1650
+potosi,jose maria linarez,puna,1286,2272
 potosi,tomas frias,potosi,50548,89324
-santa_cruz,andres ibañez,santa cruz,48508,75124
-tarija,cercado,tarija,80,115
+santa_cruz,andres ibañez,santa cruz,51561,81059
+tarija,cercado,tarija,1816,2735
