@@ -11,8 +11,8 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 4856,804856,beni,vaca diez,guayaramerin,4,1001,3,10,4,0,18,2022-08-18T03:03:45.138Z
 5014,805014,beni,vaca diez,guayaramerin,3,1001,5,6,3,0,22,2022-08-17T23:25:53.237Z
 5004,805004,beni,vaca diez,guayaramerin,4,1001,3,7,4,0,23,2022-08-17T21:57:46.424Z
+5029,805029,beni,vaca diez,guayaramerin,3,1001,5,11,3,0,25,2022-08-25T15:10:35.451Z
 2512,802512,beni,cercado,trinidad,6,1001,1,3,6,0,26,2022-07-14T21:49:38.845Z
-5029,805029,beni,vaca diez,guayaramerin,3,1001,5,11,3,0,26,2022-08-17T13:05:00.528Z
 4803,804803,beni,vaca diez,guayaramerin,3,1001,5,8,3,0,28,2022-08-17T23:57:26.450Z
 2530,802530,beni,cercado,trinidad,6,1001,1,10,6,0,29,2022-07-15T13:28:57.912Z
 4175,804175,beni,vaca diez,guayaramerin,1,1001,1,3,1,0,29,2022-08-24T20:56:36.057Z
@@ -57,7 +57,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 3561,803561,beni,vaca diez,riberalta,4,1001,3,1,4,0,84,2022-08-16T22:19:54.127Z
 3568,803568,beni,vaca diez,riberalta,4,1001,4,12,4,0,86,2022-08-06T22:08:41.909Z
 3942,803942,beni,vaca diez,guayaramerin,1,1001,1,6,1,0,86,2022-08-19T03:42:48.193Z
-3581,803581,beni,vaca diez,riberalta,6,1001,1,1,6,0,88,2022-08-15T19:40:04.860Z
+3581,803581,beni,vaca diez,riberalta,6,1001,1,1,6,0,88,2022-08-25T13:22:21.312Z
 4266,804266,beni,vaca diez,riberalta,6,1001,3,11,6,0,89,2022-08-11T00:24:54.818Z
 4004,804004,beni,gral. jose ballivian,san borja,1,1001,1,14,1,0,90,2022-08-12T21:19:55.581Z
 3621,803621,beni,vaca diez,riberalta,6,1001,1,13,6,0,92,2022-08-07T13:38:15.387Z
@@ -110,15 +110,16 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 3487,803487,beni,vaca diez,riberalta,6,1001,2,5,6,0,197,2022-08-10T02:21:16.104Z
 3628,803628,beni,vaca diez,riberalta,6,1001,1,11,6,0,203,2022-08-07T02:56:08.407Z
 3507,803507,beni,vaca diez,riberalta,6,1001,1,9,6,0,211,2022-08-17T19:42:40.463Z
-3627,803627,beni,vaca diez,riberalta,6,1001,1,4,6,0,218,2022-08-25T04:05:42.976Z
+3627,803627,beni,vaca diez,riberalta,6,1001,1,4,6,0,217,2022-08-25T15:35:33.389Z
 3629,803629,beni,vaca diez,riberalta,6,1001,2,3,6,0,224,2022-08-22T19:51:45.477Z
 3611,803611,beni,vaca diez,riberalta,6,1001,2,16,6,0,230,2022-08-24T13:46:52.061Z
 2761,802761,beni,cercado,trinidad,6,1001,1,5,6,0,268,2022-07-25T20:28:12.013Z
 2787,802787,beni,cercado,trinidad,2,1001,3,12,2,0,275,2022-07-28T23:16:10.131Z
 2775,802775,beni,cercado,trinidad,2,1001,3,13,2,0,305,2022-07-20T19:44:47.692Z
 2211,802211,beni,cercado,trinidad,7,1001,1,2,7,0,407,2022-07-24T13:51:43.884Z
-3542,803542,beni,vaca diez,riberalta,6,1001,1,5,6,0,442,2022-08-10T23:22:33.157Z
+3542,803542,beni,vaca diez,riberalta,6,1001,1,5,6,0,442,2022-08-25T18:28:13.820Z
 4917,804917,beni,itenez,magdalena,1,1014,1,1,1,1,55,2022-08-23T02:21:51.790Z
+4755,804755,beni,mamore,san joaquin,1,1009,1,11,1,1,146,2022-08-25T14:05:10.900Z
 5019,805019,beni,itenez,huacaraje,1,1001,2,2,1,2,21,2022-08-21T18:15:50.824Z
 4002,804002,beni,gral. jose ballivian,san borja,1,1001,4,10,1,2,34,2022-08-12T21:20:02.788Z
 2353,802353,beni,cercado,trinidad,6,1001,1,1,6,2,43,2022-07-20T19:39:23.291Z
@@ -127,12 +128,13 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 5006,805006,beni,itenez,huacaraje,1,1001,2,5,1,4,23,2022-08-22T01:28:48.575Z
 1590,801590,beni,cercado,trinidad,8,1001,2,2,8,4,56,2022-07-10T21:31:31.954Z
 4870,804870,beni,itenez,magdalena,1,1014,1,5,1,4,57,2022-08-22T12:56:29.773Z
-5110,805110,beni,moxos,san ignacio,1,1712,1,2,1,4,97,2022-08-18T13:14:48.206Z
+5110,805110,beni,moxos,san ignacio,1,1712,1,2,1,4,97,2022-08-25T20:59:54.385Z
 1178,801178,beni,cercado,trinidad,4,1001,5,12,4,5,6,2022-07-21T19:25:17.785Z
-5111,805111,beni,moxos,san ignacio,1,1712,1,1,1,5,54,2022-08-18T22:11:31.199Z
+5111,805111,beni,moxos,san ignacio,1,1712,1,1,1,5,54,2022-08-25T19:28:10.505Z
 3602,803602,beni,vaca diez,riberalta,6,1001,2,1,6,6,126,2022-08-08T13:45:09.167Z
 2214,802214,beni,cercado,trinidad,7,1001,1,7,7,6,677,2022-07-09T13:24:07.497Z
-4918,804918,beni,itenez,magdalena,1,1014,3,1,1,8,11,2022-08-23T14:37:20.810Z
+3962,803962,beni,vaca diez,riberalta,1,1021,1,3,1,7,51,2022-08-25T21:34:19.079Z
+4918,804918,beni,itenez,magdalena,1,1014,3,1,1,8,11,2022-08-25T14:43:41.497Z
 4776,804776,beni,mamore,san joaquin,1,1009,1,12,1,8,32,2022-08-22T15:08:16.715Z
 4933,804933,beni,itenez,magdalena,1,1014,2,2,1,8,35,2022-08-23T02:22:04.940Z
 5007,805007,beni,itenez,huacaraje,1,1001,2,7,1,8,41,2022-08-22T01:28:53.164Z
@@ -141,7 +143,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 4827,804827,beni,itenez,magdalena,1,1014,1,6,1,9,19,2022-08-23T23:15:16.418Z
 3365,803365,beni,marban,san andres,1,3703,1,2,1,9,30,2022-07-29T22:46:38.281Z
 4333,804333,beni,vaca diez,guayaramerin,3,1001,4,2,3,9,67,2022-08-19T01:22:59.779Z
-5391,805391,beni,itenez,magdalena,1,3001,1,13,1,10,29,2022-08-23T23:51:44.315Z
+5391,805391,beni,itenez,magdalena,1,3001,1,13,1,10,29,2022-08-25T15:35:07.067Z
 2831,802831,beni,cercado,trinidad,2,1001,3,14,2,10,103,2022-07-23T22:28:38.856Z
 4835,804835,beni,itenez,magdalena,1,1014,1,8,1,11,36,2022-08-23T23:15:38.620Z
 4987,804987,beni,vaca diez,guayaramerin,4,1001,2,10,4,11,145,2022-08-24T14:23:31.231Z
@@ -159,7 +161,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 5136,805136,beni,moxos,san ignacio,1,1712,2,4,1,15,49,2022-08-20T14:36:50.388Z
 4959,804959,beni,itenez,magdalena,1,1014,2,7,1,16,23,2022-08-23T14:35:22.038Z
 2622,802622,beni,vaca diez,riberalta,1,1001,2,2,1,16,39,2022-08-16T00:47:50.797Z
-4941,804941,beni,itenez,magdalena,1,1014,2,5,1,16,42,2022-08-23T02:22:22.845Z
+4941,804941,beni,itenez,magdalena,1,1014,2,5,1,16,42,2022-08-25T18:08:38.391Z
 3368,803368,beni,cercado,trinidad,1,1007,1,7,1,16,53,2022-07-30T14:32:06.550Z
 4321,804321,beni,vaca diez,guayaramerin,3,1001,4,1,3,16,65,2022-08-14T22:21:04.469Z
 5105,805105,beni,gral. jose ballivian,san borja,1,1019,1,2,1,16,66,2022-08-16T15:16:33.708Z
@@ -190,7 +192,6 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 2164,802164,beni,cercado,trinidad,7,1001,1,4,7,22,63,2022-07-21T22:22:30.448Z
 4362,804362,beni,vaca diez,guayaramerin,3,1001,4,6,3,22,70,2022-08-15T02:45:15.091Z
 4998,804998,beni,itenez,baures,1,1002,1,12,1,23,58,2022-08-24T19:12:39.421Z
-5536,805536,beni,itenez,magdalena,1,1014,3,7,1,23,60,2022-08-24T22:07:40.675Z
 3362,803362,beni,cercado,trinidad,1,1007,1,2,1,23,67,2022-08-17T20:14:30.540Z
 3366,803366,beni,cercado,trinidad,1,1007,1,10,1,23,67,2022-08-18T21:17:32.579Z
 3377,803377,beni,cercado,trinidad,1,1004,1,5,1,23,71,2022-08-03T13:10:28.750Z
@@ -208,14 +209,14 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 3373,803373,beni,marban,loreto,1,1020,1,4,1,27,47,2022-08-08T20:26:24.230Z
 4284,804284,beni,vaca diez,guayaramerin,3,1001,3,5,3,27,70,2022-08-19T15:55:19.560Z
 2821,802821,beni,cercado,trinidad,2,1001,3,15,2,28,20,2022-07-27T14:57:52.239Z
-4861,804861,beni,itenez,magdalena,1,1014,2,3,1,28,34,2022-08-22T12:56:23.337Z
+4861,804861,beni,itenez,magdalena,1,1014,2,3,1,28,34,2022-08-25T18:32:39.413Z
 5017,805017,beni,vaca diez,guayaramerin,1,3001,1,2,1,28,34,2022-08-17T11:49:54.400Z
 4785,804785,beni,mamore,san joaquin,1,1009,1,9,1,28,63,2022-08-22T19:39:22.058Z
 5649,805649,beni,itenez,huacaraje,1,2002,1,1,1,28,85,2022-08-23T22:11:22.762Z
 4334,804334,beni,vaca diez,guayaramerin,3,1001,4,3,3,28,110,2022-08-15T00:04:28.842Z
 3364,803364,beni,marban,loreto,1,1020,1,2,1,29,37,2022-08-16T13:28:20.371Z
 4350,804350,beni,vaca diez,guayaramerin,3,1001,5,1,3,29,57,2022-08-14T16:13:41.097Z
-4761,804761,beni,vaca diez,guayaramerin,4,1001,2,9,4,29,108,2022-08-18T15:24:02.231Z
+4761,804761,beni,vaca diez,guayaramerin,4,1001,2,9,4,29,108,2022-08-25T19:06:24.569Z
 1270,801270,beni,cercado,trinidad,4,1001,1,2,4,30,27,2022-07-13T22:37:23.181Z
 3369,803369,beni,marban,san andres,1,2005,1,2,1,30,76,2022-08-03T15:59:29.532Z
 3361,803361,beni,cercado,trinidad,1,1007,1,5,1,30,77,2022-08-18T00:31:51.903Z
@@ -228,15 +229,15 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 5533,805533,beni,itenez,magdalena,1,1014,3,5,1,31,84,2022-08-23T14:35:59.364Z
 3626,803626,beni,vaca diez,riberalta,4,1001,4,10,4,31,202,2022-08-14T01:57:44.584Z
 529,800529,beni,cercado,trinidad,3,1001,1,16,3,32,35,2022-07-02T16:18:45.931Z
-4159,804159,beni,vaca diez,guayaramerin,4,1001,1,3,4,32,48,2022-08-18T03:03:41.397Z
+4159,804159,beni,vaca diez,guayaramerin,4,1001,1,3,4,32,48,2022-08-25T18:55:00.442Z
+5653,805653,beni,yacuma,marban,1,2017,1,2,1,32,50,2022-08-25T20:21:44.853Z
 173,800173,beni,cercado,trinidad,5,1001,1,11,5,32,51,2022-07-14T22:26:07.243Z
 4338,804338,beni,vaca diez,guayaramerin,1,1702,1,2,1,32,70,2022-08-13T01:22:55.864Z
 3505,803505,beni,vaca diez,riberalta,4,1001,4,11,4,32,77,2022-08-17T19:42:14.364Z
 5031,805031,beni,itenez,magdalena,1,3001,1,3,1,32,78,2022-08-23T23:51:01.845Z
-5114,805114,beni,moxos,san ignacio,1,1712,1,8,1,32,78,2022-08-24T15:57:48.202Z
+5114,805114,beni,moxos,san ignacio,1,1712,1,8,1,32,78,2022-08-25T19:28:15.312Z
 5521,805521,beni,itenez,magdalena,1,1014,3,6,1,32,116,2022-08-24T13:47:32.581Z
 3533,803533,beni,vaca diez,riberalta,4,1001,4,1,4,32,232,2022-08-17T18:17:08.627Z
-5545,805545,beni,itenez,magdalena,1,1014,3,9,1,33,41,2022-08-23T22:22:11.043Z
 3969,803969,beni,vaca diez,guayaramerin,1,1001,4,13,1,33,60,2022-08-18T03:00:48.215Z
 4973,804973,beni,mamore,san ramon,1,1703,1,3,1,33,74,2022-08-24T14:13:06.082Z
 4172,804172,beni,vaca diez,riberalta,1,3001,1,1,1,34,39,2022-08-10T23:19:40.614Z
@@ -245,7 +246,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 2352,802352,beni,cercado,trinidad,6,1001,2,7,6,34,59,2022-07-21T22:37:44.447Z
 5018,805018,beni,itenez,huacaraje,1,1001,2,1,1,34,70,2022-08-21T18:15:48.743Z
 2985,802985,beni,vaca diez,riberalta,5,1001,4,13,5,35,30,2022-08-16T21:31:34.583Z
-3630,803630,beni,vaca diez,riberalta,6,1001,3,9,6,35,47,2022-08-07T18:37:51.265Z
+3630,803630,beni,vaca diez,riberalta,6,1001,3,9,6,35,45,2022-08-25T15:35:39.982Z
 550,800550,beni,cercado,trinidad,3,1001,4,2,3,35,50,2022-07-05T12:49:03.540Z
 5135,805135,beni,moxos,san ignacio,1,1712,2,6,1,35,60,2022-08-19T19:03:54.621Z
 2924,802924,beni,vaca diez,riberalta,3,1001,1,11,3,35,64,2022-08-16T14:36:46.680Z
@@ -261,7 +262,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 4207,804207,beni,vaca diez,guayaramerin,3,1001,3,8,3,36,71,2022-08-15T18:05:28.375Z
 4980,804980,beni,mamore,san ramon,1,1703,1,5,1,36,109,2022-08-24T19:11:39.153Z
 4975,804975,beni,mamore,san ramon,1,1703,1,14,1,36,127,2022-08-24T14:13:50.838Z
-4983,804983,beni,mamore,san ramon,1,1703,1,8,1,37,80,2022-08-24T12:19:12.768Z
+4983,804983,beni,mamore,san ramon,1,1703,1,8,1,37,80,2022-08-25T14:28:16.161Z
 3379,803379,beni,cercado,trinidad,1,1004,1,3,1,37,127,2022-08-20T13:55:51.101Z
 2649,802649,beni,vaca diez,riberalta,1,1001,2,14,1,38,50,2022-08-09T22:56:29.791Z
 98,800098,beni,cercado,trinidad,1,1001,1,11,1,38,53,2022-07-02T16:21:26.983Z
@@ -271,12 +272,13 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 3955,803955,beni,vaca diez,guayaramerin,3,1001,3,11,3,39,67,2022-08-17T22:48:23.474Z
 5524,805524,beni,itenez,magdalena,1,1014,1,12,1,39,73,2022-08-24T18:49:04.219Z
 152,800152,beni,cercado,trinidad,1,1001,1,10,1,39,75,2022-07-05T22:08:13.334Z
+5652,805652,beni,yacuma,marban,1,2017,1,1,1,39,75,2022-08-25T20:10:12.356Z
 4848,804848,beni,itenez,magdalena,1,1014,2,11,1,39,83,2022-08-25T01:20:43.813Z
 4199,804199,beni,vaca diez,guayaramerin,1,1001,4,5,1,39,86,2022-08-15T01:12:31.290Z
 4270,804270,beni,vaca diez,guayaramerin,2,1001,1,2,2,39,96,2022-08-24T13:36:38.335Z
 5021,805021,beni,itenez,huacaraje,1,1001,1,6,1,39,96,2022-08-21T18:15:56.231Z
 3693,803693,beni,gral. jose ballivian,san borja,1,1001,3,11,1,39,123,2022-08-17T00:21:00.887Z
-5107,805107,beni,gral. jose ballivian,san borja,1,1001,4,17,1,39,138,2022-08-20T12:13:13.421Z
+5107,805107,beni,gral. jose ballivian,san borja,1,1001,4,17,1,39,140,2022-08-25T14:18:05.392Z
 3381,803381,beni,cercado,trinidad,1,1708,1,2,1,39,151,2022-08-22T14:12:34.895Z
 5108,805108,beni,yacuma,santa ana de yacuma,1,2711,1,1,1,40,54,2022-08-17T13:05:57.999Z
 2610,802610,beni,vaca diez,riberalta,1,1001,1,7,1,40,59,2022-08-16T00:47:30.567Z
@@ -285,9 +287,9 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 5036,805036,beni,itenez,magdalena,1,3001,1,10,1,40,92,2022-08-23T23:51:23.197Z
 2613,802613,beni,vaca diez,riberalta,1,1001,1,10,1,41,50,2022-07-21T21:33:59.676Z
 2736,802736,beni,vaca diez,riberalta,3,1001,3,3,3,41,57,2022-08-09T03:06:14.048Z
-4181,804181,beni,vaca diez,guayaramerin,4,1001,1,2,4,41,59,2022-08-13T16:15:54.072Z
+4181,804181,beni,vaca diez,guayaramerin,4,1001,1,2,4,41,59,2022-08-25T19:14:09.851Z
 502,800502,beni,cercado,trinidad,3,1001,2,6,3,41,61,2022-07-02T15:53:31.236Z
-4194,804194,beni,vaca diez,guayaramerin,4,1001,1,10,4,41,65,2022-08-17T16:24:44.309Z
+4194,804194,beni,vaca diez,guayaramerin,4,1001,1,10,4,41,65,2022-08-25T19:14:15.722Z
 2734,802734,beni,vaca diez,riberalta,3,1001,2,4,3,41,70,2022-08-09T20:38:06.263Z
 2615,802615,beni,vaca diez,riberalta,1,1001,1,12,1,41,74,2022-08-16T03:54:39.598Z
 4326,804326,beni,vaca diez,guayaramerin,1,1001,3,12,1,41,89,2022-08-14T19:10:27.812Z
@@ -312,13 +314,14 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 1293,801293,beni,cercado,trinidad,4,1001,1,1,4,44,117,2022-07-08T23:23:13.725Z
 2731,802731,beni,vaca diez,riberalta,3,1001,1,17,3,45,67,2022-08-09T17:41:52.633Z
 1847,801847,beni,cercado,trinidad,7,1001,3,16,7,45,86,2022-07-10T21:32:21.197Z
-5039,805039,beni,itenez,magdalena,1,3001,1,9,1,45,88,2022-08-23T23:51:34.553Z
+5039,805039,beni,itenez,magdalena,1,3001,1,9,1,45,88,2022-08-25T15:35:00.833Z
 4845,804845,beni,itenez,magdalena,1,1014,2,10,1,45,91,2022-08-24T14:38:50.299Z
 2639,802639,beni,vaca diez,riberalta,1,1001,2,8,1,45,95,2022-08-24T15:16:47.896Z
 4854,804854,beni,vaca diez,guayaramerin,4,1001,3,2,4,45,114,2022-08-18T02:27:21.422Z
 3338,803338,beni,vaca diez,riberalta,4,1001,1,2,4,46,57,2022-07-26T12:56:45.037Z
 286,800286,beni,cercado,trinidad,2,1001,2,7,2,46,63,2022-07-28T14:27:36.555Z
 1278,801278,beni,cercado,trinidad,4,1001,5,13,4,46,76,2022-07-09T21:13:41.431Z
+5035,805035,beni,itenez,magdalena,1,3001,1,7,1,46,85,2022-08-25T15:34:52.025Z
 4279,804279,beni,vaca diez,guayaramerin,3,1001,1,4,3,46,90,2022-08-18T01:40:39.741Z
 3571,803571,beni,vaca diez,riberalta,6,1001,3,8,6,46,101,2022-08-17T15:17:57.143Z
 4276,804276,beni,vaca diez,guayaramerin,2,1001,3,6,2,46,105,2022-08-14T00:29:43.007Z
@@ -329,7 +332,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 2680,802680,beni,vaca diez,riberalta,2,1001,1,12,2,46,157,2022-08-13T03:20:17.024Z
 3360,803360,beni,marban,san andres,1,2005,1,1,1,47,59,2022-08-18T16:09:40.008Z
 305,800305,beni,cercado,trinidad,3,1001,1,4,3,47,68,2022-07-18T23:43:58.662Z
-4192,804192,beni,vaca diez,guayaramerin,3,1001,3,1,3,47,70,2022-08-25T00:43:51.116Z
+4192,804192,beni,vaca diez,guayaramerin,3,1001,3,1,3,47,70,2022-08-26T02:11:11.906Z
 3013,803013,beni,vaca diez,riberalta,3,1001,2,14,3,47,71,2022-08-13T20:00:11.205Z
 2700,802700,beni,vaca diez,riberalta,2,1001,2,2,2,47,83,2022-08-14T03:03:22.843Z
 77,800077,beni,cercado,trinidad,1,1001,1,8,1,47,84,2022-07-06T19:26:09.971Z
@@ -383,7 +386,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 566,800566,beni,cercado,trinidad,3,1001,4,7,3,51,80,2022-07-19T00:27:40.054Z
 73,800073,beni,cercado,trinidad,1,1001,1,1,1,51,84,2022-07-05T20:13:48.148Z
 139,800139,beni,cercado,trinidad,1,1001,1,7,1,51,93,2022-07-20T17:25:24.576Z
-4206,804206,beni,vaca diez,guayaramerin,3,1001,3,2,3,51,96,2022-08-15T16:16:05.892Z
+4206,804206,beni,vaca diez,guayaramerin,3,1001,3,2,3,51,96,2022-08-25T19:05:28.497Z
 4327,804327,beni,vaca diez,guayaramerin,1,1001,4,2,1,51,150,2022-08-14T19:10:47.693Z
 811,800811,beni,cercado,trinidad,4,1001,3,6,4,52,59,2022-07-10T19:57:53.216Z
 304,800304,beni,cercado,trinidad,3,1001,1,3,3,52,60,2022-07-04T18:12:47.558Z
@@ -394,11 +397,11 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 4263,804263,beni,vaca diez,guayaramerin,3,1001,3,4,3,52,80,2022-08-15T19:59:49.618Z
 2614,802614,beni,vaca diez,riberalta,1,1001,1,11,1,52,82,2022-08-10T14:16:24.069Z
 2607,802607,beni,vaca diez,riberalta,1,1001,1,4,1,52,86,2022-08-17T00:49:16.903Z
-5032,805032,beni,itenez,magdalena,1,3001,1,4,1,52,91,2022-08-23T23:51:04.991Z
+5032,805032,beni,itenez,magdalena,1,3001,1,4,1,52,91,2022-08-25T15:37:54.662Z
 508,800508,beni,cercado,trinidad,3,1001,1,11,3,52,94,2022-07-20T19:49:24.210Z
 3648,803648,beni,gral. jose ballivian,san borja,1,1001,3,2,1,52,100,2022-08-06T18:31:50.052Z
 4272,804272,beni,vaca diez,guayaramerin,2,1001,1,3,2,52,113,2022-08-17T19:21:03.407Z
-4358,804358,beni,vaca diez,guayaramerin,2,1001,2,8,2,52,117,2022-08-19T01:59:45.509Z
+4358,804358,beni,vaca diez,guayaramerin,2,1001,2,8,2,52,117,2022-08-25T14:31:28.132Z
 994,800994,beni,cercado,trinidad,4,1001,4,5,4,53,68,2022-06-09T21:34:51.747Z
 188,800188,beni,cercado,trinidad,5,1001,1,3,5,53,76,2022-07-24T23:57:24.552Z
 1820,801820,beni,cercado,trinidad,7,1001,3,6,7,53,79,2022-07-08T23:09:46.283Z
@@ -462,7 +465,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 2738,802738,beni,vaca diez,riberalta,3,1001,3,5,3,57,115,2022-08-09T19:43:13.807Z
 1821,801821,beni,cercado,trinidad,7,1001,3,4,7,57,118,2022-07-23T21:53:58.945Z
 3067,803067,beni,vaca diez,riberalta,5,1001,5,2,5,57,134,2022-08-14T01:58:21.504Z
-2609,802609,beni,vaca diez,riberalta,1,1001,1,6,1,57,135,2022-08-16T01:58:53.373Z
+2609,802609,beni,vaca diez,riberalta,1,1001,1,6,1,57,135,2022-08-25T18:28:15.657Z
 4971,804971,beni,mamore,san ramon,1,1703,1,10,1,57,151,2022-08-24T12:31:35.578Z
 2766,802766,beni,cercado,trinidad,2,1001,3,11,2,57,158,2022-07-26T21:14:50.434Z
 4205,804205,beni,vaca diez,guayaramerin,3,1001,1,14,3,58,78,2022-08-15T16:16:01.707Z
@@ -473,7 +476,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 3953,803953,beni,vaca diez,guayaramerin,3,1001,3,10,3,58,100,2022-08-18T12:42:52.056Z
 220,800220,beni,cercado,trinidad,5,1001,2,10,5,58,101,2022-07-26T21:26:04.708Z
 1811,801811,beni,cercado,trinidad,7,1001,3,7,7,58,104,2022-07-28T14:10:00.158Z
-4190,804190,beni,vaca diez,guayaramerin,3,1001,1,13,3,58,105,2022-08-18T19:49:08.181Z
+4190,804190,beni,vaca diez,guayaramerin,3,1001,1,13,3,58,105,2022-08-26T00:27:27.553Z
 1840,801840,beni,cercado,trinidad,7,1001,3,5,7,58,106,2022-07-02T15:06:15.728Z
 2946,802946,beni,vaca diez,riberalta,3,1001,2,19,3,58,107,2022-08-18T17:03:52.430Z
 5129,805129,beni,moxos,san ignacio,1,1712,2,10,1,58,113,2022-08-24T20:50:12.725Z
@@ -507,7 +510,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 2477,802477,beni,cercado,trinidad,6,1001,2,9,6,60,107,2022-07-16T14:12:36.466Z
 4211,804211,beni,vaca diez,guayaramerin,4,1001,2,3,4,60,112,2022-08-19T12:45:59.071Z
 1553,801553,beni,cercado,trinidad,8,1001,2,7,8,60,115,2022-07-11T19:54:13.325Z
-4795,804795,beni,mamore,san joaquin,1,1009,1,10,1,60,122,2022-08-22T20:57:55.967Z
+4795,804795,beni,mamore,san joaquin,1,1009,1,10,1,60,122,2022-08-25T21:39:00.733Z
 2968,802968,beni,vaca diez,riberalta,3,1001,2,5,3,60,138,2022-08-16T20:08:21.687Z
 1829,801829,beni,cercado,trinidad,7,1001,2,14,7,60,161,2022-07-08T22:57:53.647Z
 1212,801212,beni,cercado,trinidad,4,1001,5,15,4,60,197,2022-07-13T21:45:06.758Z
@@ -535,7 +538,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 4344,804344,beni,vaca diez,guayaramerin,2,1001,2,6,2,62,89,2022-08-13T02:25:58.492Z
 3966,803966,beni,vaca diez,guayaramerin,1,1001,1,10,1,62,91,2022-08-15T11:50:19.017Z
 4314,804314,beni,vaca diez,guayaramerin,3,1001,2,4,3,62,93,2022-08-13T22:46:00.150Z
-3948,803948,beni,vaca diez,guayaramerin,1,1001,4,12,1,62,99,2022-08-17T21:08:43.998Z
+3948,803948,beni,vaca diez,guayaramerin,1,1001,4,12,1,62,99,2022-08-25T21:27:34.658Z
 2885,802885,beni,vaca diez,riberalta,5,1001,4,9,5,62,106,2022-07-29T18:56:48.963Z
 3049,803049,beni,vaca diez,riberalta,5,1001,1,14,5,62,109,2022-08-17T03:07:24.585Z
 1235,801235,beni,cercado,trinidad,4,1001,1,10,4,62,112,2022-07-07T21:54:39.701Z
@@ -575,14 +578,14 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 540,800540,beni,cercado,trinidad,3,1001,2,1,3,64,63,2022-07-05T12:44:35.837Z
 282,800282,beni,cercado,trinidad,2,1001,2,5,2,64,76,2022-06-25T17:56:48.040Z
 190,800190,beni,cercado,trinidad,5,1001,2,1,5,64,82,2022-06-23T20:11:02.611Z
-4167,804167,beni,vaca diez,guayaramerin,4,1001,1,14,4,64,84,2022-08-18T17:13:54.863Z
+4167,804167,beni,vaca diez,guayaramerin,4,1001,1,14,4,64,84,2022-08-25T19:58:22.982Z
 3018,803018,beni,vaca diez,riberalta,5,1001,3,12,5,64,90,2022-07-25T13:13:31.348Z
 224,800224,beni,cercado,trinidad,2,1001,1,2,2,64,91,2022-07-15T18:16:38.395Z
 244,800244,beni,cercado,trinidad,2,1001,1,8,2,64,92,2022-06-24T15:27:04.857Z
 560,800560,beni,cercado,trinidad,3,1001,4,11,3,64,94,2022-07-04T18:14:52.873Z
 2653,802653,beni,vaca diez,riberalta,2,1001,1,1,2,64,96,2022-08-09T21:27:51.933Z
 4359,804359,beni,vaca diez,guayaramerin,2,1001,2,9,2,64,100,2022-08-13T21:48:29.247Z
-4184,804184,beni,vaca diez,guayaramerin,2,1001,1,10,2,64,106,2022-08-13T01:20:00.787Z
+4184,804184,beni,vaca diez,guayaramerin,2,1001,1,10,2,64,106,2022-08-25T19:10:59.374Z
 978,800978,beni,cercado,trinidad,4,1001,2,16,4,64,107,2022-07-26T19:09:10.335Z
 4011,804011,beni,gral. jose ballivian,san borja,1,1001,2,5,1,64,111,2022-08-24T13:39:18.387Z
 2943,802943,beni,vaca diez,riberalta,3,1001,2,17,3,64,115,2022-08-16T14:59:33.013Z
@@ -595,7 +598,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 2826,802826,beni,cercado,trinidad,2,1001,2,15,2,65,78,2022-07-19T22:09:44.854Z
 519,800519,beni,cercado,trinidad,3,1001,2,8,3,65,79,2022-07-02T16:25:08.763Z
 1023,801023,beni,cercado,trinidad,3,1001,5,2,3,65,92,2022-07-02T16:23:07.124Z
-4185,804185,beni,vaca diez,guayaramerin,2,1001,3,2,2,65,92,2022-08-15T03:09:31.002Z
+4185,804185,beni,vaca diez,guayaramerin,2,1001,3,2,2,65,92,2022-08-26T02:10:21.225Z
 2998,802998,beni,vaca diez,riberalta,5,1001,2,5,5,65,93,2022-08-20T03:01:36.371Z
 3586,803586,beni,vaca diez,riberalta,4,1001,3,6,4,65,93,2022-08-15T00:18:11.880Z
 3068,803068,beni,vaca diez,riberalta,5,1001,5,11,5,65,94,2022-07-25T00:40:54.676Z
@@ -604,7 +607,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 4209,804209,beni,vaca diez,guayaramerin,3,1001,3,9,3,65,108,2022-08-15T19:04:25.368Z
 4986,804986,beni,vaca diez,guayaramerin,4,1001,2,5,4,65,108,2022-08-23T12:49:22.231Z
 4364,804364,beni,vaca diez,guayaramerin,1,1001,4,1,1,65,112,2022-08-19T03:43:07.224Z
-2929,802929,beni,vaca diez,riberalta,5,1001,1,7,5,65,119,2022-08-10T17:19:08.826Z
+2929,802929,beni,vaca diez,riberalta,5,1001,1,7,5,65,120,2022-08-25T19:15:17.751Z
 4013,804013,beni,gral. jose ballivian,san borja,1,1001,2,6,1,65,133,2022-08-10T22:50:46.184Z
 4224,804224,beni,vaca diez,guayaramerin,3,1001,1,1,3,65,143,2022-08-18T15:07:19.137Z
 5126,805126,beni,moxos,san ignacio,1,1712,3,11,1,65,144,2022-08-20T11:29:56.628Z
@@ -625,7 +628,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 4346,804346,beni,vaca diez,guayaramerin,3,1001,2,10,3,66,109,2022-08-17T20:49:48.084Z
 208,800208,beni,cercado,trinidad,5,1001,2,2,5,66,112,2022-07-26T19:07:21.435Z
 2656,802656,beni,vaca diez,riberalta,2,1001,1,3,2,66,116,2022-08-09T15:51:57.126Z
-4771,804771,beni,mamore,san joaquin,1,1009,1,7,1,66,124,2022-08-22T19:35:14.289Z
+4771,804771,beni,mamore,san joaquin,1,1009,1,7,1,66,124,2022-08-25T18:55:46.697Z
 4030,804030,beni,gral. jose ballivian,san borja,1,1001,4,7,1,66,129,2022-08-16T13:48:06.658Z
 5132,805132,beni,moxos,san ignacio,1,1712,2,2,1,66,131,2022-08-20T13:18:43.572Z
 1511,801511,beni,cercado,trinidad,8,1001,2,10,8,66,133,2022-07-24T15:16:27.529Z
@@ -643,8 +646,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 509,800509,beni,cercado,trinidad,3,1001,1,12,3,67,97,2022-07-02T16:22:37.417Z
 3330,803330,beni,vaca diez,riberalta,4,1001,2,12,4,67,97,2022-08-17T18:17:05.874Z
 2870,802870,beni,vaca diez,riberalta,3,1001,3,18,3,67,98,2022-07-24T21:35:30.804Z
-4331,804331,beni,vaca diez,guayaramerin,2,1001,2,5,2,67,103,2022-08-24T15:44:34.176Z
-4202,804202,beni,vaca diez,guayaramerin,3,1001,1,8,3,67,105,2022-08-18T23:36:41.681Z
+4202,804202,beni,vaca diez,guayaramerin,3,1001,1,8,3,67,105,2022-08-25T19:17:59.663Z
 1060,801060,beni,cercado,trinidad,3,1001,5,9,3,67,106,2022-07-05T12:46:09.948Z
 4198,804198,beni,vaca diez,guayaramerin,4,1001,1,6,4,67,106,2022-08-18T20:01:15.832Z
 2925,802925,beni,vaca diez,riberalta,3,1001,1,15,3,67,108,2022-08-10T02:32:00.395Z
@@ -680,7 +682,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 5673,805673,beni,moxos,san ignacio,1,1712,3,6,1,68,144,2022-08-22T23:08:08.719Z
 2922,802922,beni,vaca diez,riberalta,3,1001,3,2,3,68,165,2022-08-16T14:29:12.473Z
 4992,804992,beni,itenez,baures,1,1002,1,2,1,68,177,2022-08-24T13:30:48.556Z
-3327,803327,beni,vaca diez,riberalta,4,1001,1,14,4,68,186,2022-08-24T21:19:39.240Z
+3327,803327,beni,vaca diez,riberalta,4,1001,1,14,4,68,186,2022-08-25T18:10:40.976Z
 225,800225,beni,cercado,trinidad,2,1001,1,4,2,69,70,2022-07-04T21:54:35.604Z
 1846,801846,beni,cercado,trinidad,8,1001,1,1,8,69,75,2022-07-10T21:31:44.048Z
 1049,801049,beni,cercado,trinidad,4,1001,2,13,4,69,76,2022-07-08T21:20:48.178Z
@@ -703,6 +705,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 2454,802454,beni,cercado,trinidad,6,1001,3,10,6,70,102,2022-07-16T19:34:08.913Z
 2728,802728,beni,vaca diez,riberalta,3,1001,1,13,3,70,105,2022-08-01T13:32:20.182Z
 1841,801841,beni,cercado,trinidad,7,1001,3,8,7,70,111,2022-07-02T15:05:51.833Z
+4723,804723,beni,mamore,san joaquin,1,1009,1,3,1,70,112,2022-08-25T14:04:55.114Z
 3682,803682,beni,gral. jose ballivian,san borja,1,1001,3,5,1,70,116,2022-08-04T19:12:27.537Z
 2993,802993,beni,vaca diez,riberalta,5,1001,1,13,5,70,121,2022-08-20T15:24:30.770Z
 5100,805100,beni,gral. jose ballivian,san borja,1,1001,4,12,1,70,130,2022-08-24T19:47:30.569Z
@@ -727,7 +730,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 3950,803950,beni,vaca diez,guayaramerin,4,1001,1,7,4,72,87,2022-08-18T14:43:08.468Z
 3007,803007,beni,vaca diez,riberalta,3,1001,2,6,3,72,90,2022-08-17T01:25:15.917Z
 3349,803349,beni,vaca diez,riberalta,4,1001,2,16,4,72,94,2022-08-14T20:41:55.654Z
-4962,804962,beni,itenez,magdalena,1,1014,2,8,1,72,95,2022-08-23T14:35:34.711Z
+4962,804962,beni,itenez,magdalena,1,1014,2,8,1,72,95,2022-08-25T18:33:07.948Z
 1019,801019,beni,cercado,trinidad,4,1001,3,7,4,72,102,2022-06-08T12:45:44.236Z
 3051,803051,beni,vaca diez,riberalta,5,1001,1,16,5,72,104,2022-08-05T23:59:33.754Z
 2726,802726,beni,vaca diez,riberalta,3,1001,1,9,3,72,107,2022-07-25T13:02:58.089Z
@@ -749,7 +752,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 2869,802869,beni,vaca diez,riberalta,3,1001,3,9,3,73,109,2022-08-02T18:14:25.967Z
 143,800143,beni,cercado,trinidad,1,1001,1,12,1,73,115,2022-07-14T21:56:36.967Z
 2871,802871,beni,vaca diez,riberalta,3,1001,3,19,3,73,117,2022-08-24T18:52:01.654Z
-4197,804197,beni,vaca diez,guayaramerin,4,1001,1,5,4,73,122,2022-08-19T03:46:53.164Z
+4197,804197,beni,vaca diez,guayaramerin,4,1001,1,5,4,73,122,2022-08-25T19:17:07.926Z
 4005,804005,beni,gral. jose ballivian,san borja,1,1001,4,5,1,73,123,2022-08-15T00:28:05.189Z
 1202,801202,beni,cercado,trinidad,4,1001,3,14,4,73,129,2022-06-20T21:14:25.639Z
 2883,802883,beni,vaca diez,riberalta,5,1001,3,10,5,73,129,2022-08-02T18:16:39.089Z
@@ -774,7 +777,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 4007,804007,beni,gral. jose ballivian,san borja,1,1001,4,6,1,74,132,2022-08-16T20:43:19.318Z
 2616,802616,beni,vaca diez,riberalta,1,1001,1,13,1,74,137,2022-07-29T15:53:38.951Z
 3351,803351,beni,vaca diez,riberalta,4,1001,2,6,4,74,141,2022-08-09T18:02:07.092Z
-4982,804982,beni,mamore,san ramon,1,1703,1,4,1,74,148,2022-08-24T12:09:07.423Z
+4982,804982,beni,mamore,san ramon,1,1703,1,4,1,74,148,2022-08-25T14:26:15.223Z
 895,800895,beni,cercado,trinidad,3,1001,5,8,3,74,216,2022-07-10T21:40:21.291Z
 246,800246,beni,cercado,trinidad,2,1001,1,9,2,75,82,2022-07-24T14:48:11.573Z
 805,800805,beni,cercado,trinidad,4,1001,4,3,4,75,88,2022-07-05T20:24:00.564Z
@@ -798,6 +801,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 2884,802884,beni,vaca diez,riberalta,5,1001,3,11,5,76,142,2022-07-30T15:30:28.346Z
 2417,802417,beni,cercado,trinidad,6,1001,2,2,6,76,144,2022-07-22T23:11:44.294Z
 3354,803354,beni,vaca diez,riberalta,4,1001,1,15,4,76,148,2022-07-29T21:22:56.474Z
+4746,804746,beni,mamore,san joaquin,1,1009,1,6,1,76,156,2022-08-25T19:18:16.000Z
 2723,802723,beni,vaca diez,riberalta,3,1001,1,6,3,76,159,2022-08-16T22:55:30.668Z
 5121,805121,beni,moxos,san ignacio,1,1712,1,10,1,77,85,2022-08-23T16:03:55.659Z
 238,800238,beni,cercado,trinidad,2,1001,1,6,2,77,88,2022-07-28T14:16:23.360Z
@@ -811,11 +815,11 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 4028,804028,beni,gral. jose ballivian,san borja,1,1001,1,12,1,77,120,2022-08-16T15:05:36.384Z
 1004,801004,beni,cercado,trinidad,4,1001,2,7,4,77,129,2022-07-27T21:37:00.205Z
 2880,802880,beni,vaca diez,riberalta,5,1001,3,9,5,77,131,2022-08-16T01:04:57.405Z
-4791,804791,beni,mamore,san joaquin,1,1009,1,8,1,77,141,2022-08-22T20:57:51.239Z
 3684,803684,beni,gral. jose ballivian,san borja,1,1001,3,6,1,77,145,2022-08-17T02:32:05.963Z
+4791,804791,beni,mamore,san joaquin,1,1009,1,8,1,77,145,2022-08-25T21:38:58.415Z
 4221,804221,beni,vaca diez,guayaramerin,2,1001,1,9,2,77,166,2022-08-20T18:41:08.629Z
 4355,804355,beni,vaca diez,guayaramerin,1,1001,3,9,1,77,167,2022-08-17T17:42:38.216Z
-3971,803971,beni,vaca diez,guayaramerin,2,1001,1,11,2,77,180,2022-08-23T14:17:38.753Z
+3971,803971,beni,vaca diez,guayaramerin,2,1001,1,11,2,77,180,2022-08-25T19:03:41.740Z
 1804,801804,beni,cercado,trinidad,8,1001,1,12,8,77,229,2022-07-07T16:03:34.158Z
 4329,804329,beni,vaca diez,guayaramerin,2,1001,2,3,2,77,230,2022-08-14T19:13:06.883Z
 5392,805392,beni,itenez,magdalena,1,3009,1,2,1,78,64,2022-08-24T22:38:36.591Z
@@ -841,7 +845,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 2644,802644,beni,vaca diez,riberalta,1,1001,2,12,1,79,121,2022-08-15T03:10:30.254Z
 3946,803946,beni,vaca diez,guayaramerin,1,1001,4,9,1,79,128,2022-08-18T02:36:58.308Z
 2724,802724,beni,vaca diez,riberalta,3,1001,1,7,3,79,129,2022-08-17T00:16:42.155Z
-4356,804356,beni,vaca diez,guayaramerin,2,1001,2,1,2,79,144,2022-08-19T01:36:00.606Z
+4356,804356,beni,vaca diez,guayaramerin,2,1001,2,1,2,79,144,2022-08-25T15:11:02.060Z
 3681,803681,beni,gral. jose ballivian,san borja,1,1001,3,10,1,79,146,2022-08-13T13:05:42.376Z
 1013,801013,beni,cercado,trinidad,3,1001,5,1,3,80,87,2022-07-14T21:38:49.944Z
 258,800258,beni,cercado,trinidad,2,1001,1,14,2,80,92,2022-06-24T13:31:24.599Z
@@ -923,6 +927,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 2351,802351,beni,cercado,trinidad,6,1001,2,3,6,87,138,2022-07-20T19:38:52.068Z
 2997,802997,beni,vaca diez,riberalta,5,1001,2,1,5,87,140,2022-08-09T18:59:39.504Z
 1575,801575,beni,cercado,trinidad,8,1001,3,1,8,87,144,2022-06-28T18:30:23.630Z
+4690,804690,beni,mamore,san joaquin,1,1009,1,2,1,87,166,2022-08-25T14:04:58.127Z
 1228,801228,beni,cercado,trinidad,4,1001,1,9,4,87,172,2022-07-07T21:55:07.388Z
 1844,801844,beni,cercado,trinidad,7,1001,2,10,7,87,173,2022-07-09T21:37:06.896Z
 3993,803993,beni,gral. jose ballivian,san borja,1,1001,1,11,1,87,197,2022-08-15T00:30:02.662Z
@@ -937,7 +942,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 3045,803045,beni,vaca diez,riberalta,5,1001,5,3,5,88,172,2022-08-13T03:51:32.391Z
 5022,805022,beni,itenez,huacaraje,1,1001,1,3,1,88,182,2022-08-21T18:15:58.575Z
 5118,805118,beni,moxos,san ignacio,1,1712,3,4,1,88,196,2022-08-24T15:57:45.815Z
-4688,804688,beni,mamore,san joaquin,1,1009,1,1,1,88,198,2022-08-23T03:29:49.708Z
+4688,804688,beni,mamore,san joaquin,1,1009,1,1,1,88,198,2022-08-25T14:05:00.907Z
 3944,803944,beni,vaca diez,guayaramerin,1,1001,4,6,1,89,133,2022-08-18T17:15:17.477Z
 2415,802415,beni,cercado,trinidad,6,1001,3,12,6,89,141,2022-07-28T22:24:04.672Z
 4029,804029,beni,gral. jose ballivian,san borja,1,1001,1,13,1,89,142,2022-08-13T15:03:48.117Z
@@ -963,7 +968,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 2730,802730,beni,vaca diez,riberalta,3,1001,1,16,3,91,133,2022-08-15T19:56:50.832Z
 1508,801508,beni,cercado,trinidad,8,1001,1,14,8,91,151,2022-06-28T22:13:24.356Z
 4032,804032,beni,gral. jose ballivian,san borja,1,1001,4,14,1,91,151,2022-08-16T16:24:50.132Z
-4254,804254,beni,vaca diez,guayaramerin,2,1001,3,9,2,91,165,2022-08-19T02:24:49.266Z
+4254,804254,beni,vaca diez,guayaramerin,2,1001,3,9,2,91,165,2022-08-25T13:24:24.762Z
 3687,803687,beni,gral. jose ballivian,san borja,1,1001,2,15,1,91,177,2022-08-17T02:32:10.754Z
 1570,801570,beni,cercado,trinidad,8,1001,3,7,8,91,203,2022-07-15T18:12:50.327Z
 3341,803341,beni,vaca diez,riberalta,4,1001,2,9,4,92,108,2022-08-10T20:45:40.851Z
@@ -992,7 +997,6 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 514,800514,beni,cercado,trinidad,3,1001,3,10,3,94,111,2022-07-28T14:37:47.936Z
 1016,801016,beni,cercado,trinidad,4,1001,3,3,4,94,111,2022-07-09T22:39:08.917Z
 990,800990,beni,cercado,trinidad,4,1001,3,9,4,94,123,2022-07-14T20:28:45.538Z
-3567,803567,beni,vaca diez,riberalta,4,1001,3,15,4,94,130,2022-08-16T23:08:12.700Z
 3325,803325,beni,vaca diez,riberalta,5,1001,4,5,5,94,137,2022-08-19T02:25:51.909Z
 3615,803615,beni,vaca diez,riberalta,4,1001,3,7,4,94,138,2022-08-09T22:06:46.993Z
 3978,803978,beni,gral. jose ballivian,san borja,1,1001,4,4,1,94,139,2022-08-16T20:13:57.723Z
@@ -1045,7 +1049,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 3022,803022,beni,vaca diez,riberalta,5,1001,5,1,5,105,145,2022-08-15T00:18:39.781Z
 2135,802135,beni,cercado,trinidad,7,1001,1,16,7,105,661,2022-07-28T14:27:02.011Z
 1026,801026,beni,cercado,trinidad,4,1001,4,2,4,106,119,2022-07-09T22:41:20.396Z
-5104,805104,beni,gral. jose ballivian,san borja,1,1001,4,16,1,106,174,2022-08-16T19:53:00.657Z
+5104,805104,beni,gral. jose ballivian,san borja,1,1001,4,16,1,106,174,2022-08-25T20:34:51.292Z
 3660,803660,beni,gral. jose ballivian,san borja,1,1001,3,3,1,106,266,2022-08-21T21:19:40.025Z
 995,800995,beni,cercado,trinidad,4,1001,2,6,4,107,125,2022-07-28T14:57:12.755Z
 1822,801822,beni,cercado,trinidad,7,1001,1,13,7,107,175,2022-07-21T22:22:07.243Z
@@ -1085,7 +1089,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 3564,803564,beni,vaca diez,riberalta,4,1001,3,4,4,129,155,2022-08-09T19:29:39.506Z
 2952,802952,beni,vaca diez,riberalta,5,1001,2,3,5,129,194,2022-08-18T17:04:19.069Z
 3239,803239,beni,vaca diez,riberalta,4,1001,1,6,4,129,223,2022-08-16T01:12:45.659Z
-4781,804781,beni,mamore,san joaquin,1,1009,1,5,1,129,248,2022-08-22T21:49:41.607Z
+4781,804781,beni,mamore,san joaquin,1,1009,1,5,1,129,248,2022-08-25T20:00:56.479Z
 3573,803573,beni,vaca diez,riberalta,4,1001,4,2,4,130,196,2022-08-20T17:16:13.354Z
 4974,804974,beni,mamore,san ramon,1,1703,1,7,1,130,269,2022-08-24T12:42:11.447Z
 758,800758,beni,cercado,trinidad,3,1001,4,5,3,131,153,2022-07-02T15:53:41.638Z
@@ -1097,10 +1101,10 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 4811,804811,beni,vaca diez,guayaramerin,1,3001,1,3,1,143,127,2022-08-24T20:54:14.520Z
 284,800284,beni,cercado,trinidad,2,1001,2,6,2,143,148,2022-07-28T12:04:13.591Z
 5650,805650,beni,itenez,huacaraje,1,2002,1,2,1,144,228,2022-08-23T22:11:26.611Z
-4981,804981,beni,mamore,san ramon,1,1703,1,6,1,146,239,2022-08-24T12:09:17.439Z
+4981,804981,beni,mamore,san ramon,1,1703,1,6,1,146,239,2022-08-25T13:25:16.286Z
 3026,803026,beni,vaca diez,riberalta,5,1001,5,7,5,158,144,2022-08-10T18:27:46.584Z
 506,800506,beni,cercado,trinidad,3,1001,3,8,3,159,108,2022-07-02T15:53:39.422Z
-4754,804754,beni,mamore,san joaquin,1,1009,1,4,1,161,265,2022-08-24T14:19:25.692Z
+4754,804754,beni,mamore,san joaquin,1,1009,1,4,1,161,265,2022-08-25T14:05:13.143Z
 3052,803052,beni,vaca diez,riberalta,5,1001,2,8,5,167,292,2022-08-19T01:19:18.775Z
 3980,803980,beni,gral. jose ballivian,san borja,1,1001,2,9,1,180,317,2022-08-24T15:36:53.490Z
 2226,802226,beni,cercado,trinidad,7,1001,1,18,7,196,398,2022-07-28T14:28:31.878Z
