@@ -25,7 +25,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 2001,502001,potosi,tomas frias,potosi,4,1001,3,9,4,0,20,2022-07-08T22:57:40.958Z
 4039,504039,potosi,antonio quijarro,porco,1,1001,1,8,1,0,20,2022-08-10T19:48:21.116Z
 4069,504069,potosi,antonio quijarro,porco,1,1001,1,9,1,0,20,2022-08-09T19:11:38.442Z
-4809,504809,potosi,jose maria linarez,"caiza ""d""",1,4002,1,11,1,0,20,2022-08-19T18:45:31.969Z
+4809,504809,potosi,jose maria linarez,"caiza ""d""",1,4002,1,11,1,0,20,2022-08-26T15:26:45.812Z
 4037,504037,potosi,antonio quijarro,porco,1,1001,1,7,1,0,21,2022-08-10T18:59:01.107Z
 4067,504067,potosi,antonio quijarro,porco,1,1001,1,11,1,0,21,2022-08-08T19:58:19.267Z
 4793,504793,potosi,jose maria linarez,"caiza ""d""",1,1016,1,2,1,0,21,2022-08-18T21:00:21.887Z
@@ -139,7 +139,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 2758,502758,potosi,tomas frias,potosi,16,1001,1,1,16,0,101,2022-07-18T19:33:56.689Z
 2297,502297,potosi,tomas frias,potosi,12,1001,1,4,12,0,106,2022-08-09T18:04:46.994Z
 2315,502315,potosi,tomas frias,potosi,15,1001,2,14,15,0,107,2022-08-04T14:10:23.965Z
-5397,505397,potosi,cornelio saavedra,chaqui,1,1010,1,1,1,0,107,2022-08-23T20:29:50.011Z
+5397,505397,potosi,cornelio saavedra,chaqui,1,1010,1,1,1,0,107,2022-08-26T16:57:58.966Z
 2275,502275,potosi,tomas frias,potosi,12,1001,1,13,12,0,116,2022-07-26T14:44:16.405Z
 2140,502140,potosi,tomas frias,potosi,13,1001,1,11,13,0,124,2022-07-26T22:41:49.499Z
 2759,502759,potosi,tomas frias,potosi,16,1001,1,6,16,0,128,2022-07-19T19:57:16.909Z
@@ -217,7 +217,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 2317,502317,potosi,tomas frias,potosi,15,1001,2,2,15,22,32,2022-07-26T23:30:57.190Z
 717,500717,potosi,tomas frias,potosi,6,1001,1,10,6,22,40,2022-06-07T16:43:48.133Z
 4764,504764,potosi,jose maria linarez,"caiza ""d""",1,3009,1,10,1,22,60,2022-08-17T19:25:12.592Z
-5420,505420,potosi,tomas frias,yocalla,1,3001,1,5,1,23,31,2022-08-22T20:50:19.497Z
+5420,505420,potosi,tomas frias,yocalla,1,3001,1,5,1,23,31,2022-08-26T20:33:38.933Z
 4876,504876,potosi,jose maria linarez,puna,1,1019,1,9,1,23,91,2022-08-16T20:42:46.853Z
 2309,502309,potosi,tomas frias,potosi,15,1001,2,13,15,23,95,2022-07-25T21:08:33.119Z
 341,500341,potosi,tomas frias,potosi,7,1001,2,3,7,24,31,2022-08-09T20:37:52.709Z
@@ -240,7 +240,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 4844,504844,potosi,jose maria linarez,"caiza ""d""",1,4002,1,5,1,30,32,2022-08-17T20:21:27.500Z
 680,500680,potosi,tomas frias,potosi,5,1001,3,6,5,30,36,2022-07-01T22:44:45.504Z
 382,500382,potosi,tomas frias,potosi,5,1001,6,1,5,30,49,2022-07-20T20:20:56.511Z
-4094,504094,potosi,antonio quijarro,porco,1,1005,2,15,1,30,70,2022-08-11T20:29:34.526Z
+4094,504094,potosi,antonio quijarro,porco,1,1005,2,15,1,30,70,2022-08-26T19:28:40.449Z
 3643,503643,potosi,cornelio saavedra,betanzos,1,1001,3,13,1,30,103,2022-08-03T20:02:28.640Z
 4079,504079,potosi,antonio quijarro,porco,1,1001,2,8,1,31,10,2022-08-10T00:17:10.614Z
 915,500915,potosi,tomas frias,potosi,8,1001,3,11,8,31,51,2022-06-10T23:45:28.050Z
@@ -284,7 +284,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 5441,505441,potosi,tomas frias,yocalla,1,3032,1,2,1,40,64,2022-08-22T20:44:00.380Z
 691,500691,potosi,tomas frias,potosi,5,1001,4,3,5,40,68,2022-07-28T13:41:01.637Z
 233,500233,potosi,tomas frias,potosi,1,1001,5,9,1,40,70,2022-07-22T18:37:59.064Z
-4886,504886,potosi,jose maria linarez,puna,1,1019,1,3,1,40,95,2022-08-18T20:56:10.038Z
+4886,504886,potosi,jose maria linarez,puna,1,1019,1,3,1,40,95,2022-08-26T20:32:52.342Z
 4043,504043,potosi,antonio quijarro,porco,1,1005,1,14,1,40,111,2022-08-09T21:32:21.746Z
 936,500936,potosi,tomas frias,potosi,9,1001,5,13,9,41,53,2022-07-22T22:41:05.781Z
 4051,504051,potosi,antonio quijarro,porco,1,1005,1,10,1,41,65,2022-08-09T20:25:44.286Z
@@ -439,7 +439,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 4901,504901,potosi,jose maria linarez,puna,1,8022,1,1,1,58,79,2022-08-15T20:43:20.534Z
 1348,501348,potosi,tomas frias,potosi,13,1001,2,16,13,58,93,2022-07-26T23:27:16.869Z
 1027,501027,potosi,tomas frias,potosi,9,1001,4,4,9,58,104,2022-07-23T15:06:01.313Z
-3838,503838,potosi,tomas frias,potosi,1,4016,1,11,1,59,18,2022-08-04T19:43:57.893Z
+3838,503838,potosi,tomas frias,potosi,1,4016,1,11,1,59,18,2022-08-26T15:27:09.813Z
 853,500853,potosi,tomas frias,potosi,8,1001,3,6,8,59,71,2022-07-26T22:37:15.875Z
 976,500976,potosi,tomas frias,potosi,9,1001,5,9,9,59,77,2022-07-13T18:53:17.500Z
 694,500694,potosi,tomas frias,potosi,5,1001,1,11,5,59,91,2022-07-26T13:46:18.583Z
@@ -526,7 +526,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 950,500950,potosi,tomas frias,potosi,9,1001,5,11,9,65,83,2022-06-09T16:38:53.756Z
 1152,501152,potosi,tomas frias,potosi,2,1001,2,6,2,65,90,2022-07-04T20:51:25.735Z
 937,500937,potosi,tomas frias,potosi,7,1001,3,3,7,65,103,2022-07-22T16:33:44.675Z
-5408,505408,potosi,cornelio saavedra,chaqui,1,1010,1,6,1,65,104,2022-08-23T21:58:31.759Z
+5408,505408,potosi,cornelio saavedra,chaqui,1,1010,1,6,1,65,104,2022-08-26T20:32:05.921Z
 1176,501176,potosi,tomas frias,potosi,9,1001,2,15,9,65,109,2022-07-26T16:04:36.124Z
 2249,502249,potosi,tomas frias,potosi,12,1001,4,1,12,65,110,2022-07-26T17:39:02.194Z
 3654,503654,potosi,cornelio saavedra,betanzos,1,1001,3,2,1,65,112,2022-08-01T20:45:59.216Z
@@ -985,7 +985,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 1525,501525,potosi,tomas frias,potosi,3,1001,1,11,3,118,158,2022-07-22T22:23:04.849Z
 1349,501349,potosi,tomas frias,potosi,13,1001,2,17,13,118,220,2022-07-26T23:29:30.211Z
 816,500816,potosi,tomas frias,potosi,5,1001,2,5,5,119,190,2022-07-20T21:52:41.858Z
-3690,503690,potosi,cornelio saavedra,betanzos,1,1001,2,13,1,120,141,2022-08-12T13:30:02.197Z
+3690,503690,potosi,cornelio saavedra,betanzos,1,1001,2,13,1,120,141,2022-08-26T20:50:17.240Z
 690,500690,potosi,tomas frias,potosi,5,1001,4,6,5,121,166,2022-07-26T23:05:23.097Z
 697,500697,potosi,tomas frias,potosi,5,1001,5,11,5,121,194,2022-07-20T20:29:08.161Z
 313,500313,potosi,tomas frias,potosi,6,1001,2,16,6,121,197,2022-07-22T21:00:05.429Z
@@ -998,20 +998,20 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 278,500278,potosi,tomas frias,potosi,6,1001,1,12,6,132,144,2022-06-24T22:43:44.787Z
 275,500275,potosi,tomas frias,potosi,6,1001,1,14,6,132,213,2022-07-26T21:11:04.185Z
 798,500798,potosi,tomas frias,potosi,2,1001,1,16,2,133,181,2022-07-27T13:41:48.812Z
-3669,503669,potosi,cornelio saavedra,betanzos,1,1001,3,4,1,133,190,2022-08-05T15:29:01.414Z
+3669,503669,potosi,cornelio saavedra,betanzos,1,1001,3,4,1,133,190,2022-08-26T15:56:51.440Z
 368,500368,potosi,tomas frias,potosi,5,1001,4,12,5,135,175,2022-07-01T19:57:44.267Z
 834,500834,potosi,tomas frias,potosi,2,1001,1,7,2,136,151,2022-08-12T14:57:12.401Z
 4054,504054,potosi,antonio quijarro,porco,1,1005,1,9,1,137,54,2022-08-10T20:34:06.930Z
 3656,503656,potosi,cornelio saavedra,betanzos,1,1001,3,6,1,137,228,2022-08-19T14:59:23.000Z
 309,500309,potosi,tomas frias,potosi,6,1001,2,5,6,138,165,2022-07-22T20:59:58.537Z
-3640,503640,potosi,cornelio saavedra,betanzos,1,1001,3,1,1,139,183,2022-08-02T20:39:49.167Z
+3640,503640,potosi,cornelio saavedra,betanzos,1,1001,3,1,1,139,183,2022-08-26T20:29:13.792Z
 4096,504096,potosi,antonio quijarro,porco,1,1005,2,9,1,140,79,2022-08-09T20:42:02.668Z
 5446,505446,potosi,cornelio saavedra,chaqui,1,1011,1,3,1,140,105,2022-08-23T22:21:15.360Z
 303,500303,potosi,tomas frias,potosi,1,1001,1,5,1,143,153,2022-07-20T21:59:16.727Z
 4889,504889,potosi,jose maria linarez,puna,1,1019,1,7,1,143,217,2022-08-18T19:52:11.952Z
 4703,504703,potosi,jose maria linarez,"caiza ""d""",1,3009,1,5,1,144,155,2022-08-17T19:02:06.712Z
 1509,501509,potosi,tomas frias,potosi,1,1001,4,6,1,145,432,2022-07-22T18:39:27.795Z
-5398,505398,potosi,cornelio saavedra,chaqui,1,1010,1,4,1,152,188,2022-08-23T20:29:52.001Z
+5398,505398,potosi,cornelio saavedra,chaqui,1,1010,1,4,1,152,188,2022-08-26T16:58:00.787Z
 4074,504074,potosi,antonio quijarro,porco,1,1001,2,4,1,155,20,2022-08-11T19:02:52.236Z
 578,500578,potosi,tomas frias,potosi,2,1001,2,3,2,158,183,2022-07-21T22:34:29.336Z
 713,500713,potosi,tomas frias,potosi,9,1001,5,15,9,163,227,2022-07-22T22:40:50.096Z
