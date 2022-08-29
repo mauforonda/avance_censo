@@ -1,8 +1,8 @@
 departamento,provincia,municipio,viviendas_2012,viviendas_2022
 beni,cercado,san ignacio  de moxos,106,187
 beni,cercado,san javier,31,195
-beni,cercado,trinidad,26054,48469
-beni,gral. jose ballivian,san borja,4379,8750
+beni,cercado,trinidad,26198,48765
+beni,gral. jose ballivian,san borja,4462,8909
 beni,itenez,baures,494,1054
 beni,itenez,huacaraje,685,1495
 beni,itenez,magdalena,1766,3666
@@ -11,8 +11,8 @@ beni,mamore,san ramon,890,1844
 beni,marban,loreto,95,158
 beni,marban,san andres,117,205
 beni,moxos,san ignacio,2390,5082
-beni,vaca diez,guayaramerin,8841,17499
-beni,vaca diez,riberalta,18471,39687
+beni,vaca diez,guayaramerin,8908,17601
+beni,vaca diez,riberalta,18565,39817
 beni,yacuma,marban,71,125
 beni,yacuma,santa ana de yacuma,76,103
 oruro,cercado,caracollo,2323,4512
@@ -33,5 +33,5 @@ potosi,jose maria linarez,"caiza ""d""",844,1690
 potosi,jose maria linarez,puna,1286,2272
 potosi,tomas frias,potosi,50548,89324
 potosi,tomas frias,yocalla,811,1022
-santa_cruz,andres ibañez,santa cruz,75840,123391
-tarija,cercado,tarija,13558,21136
+santa_cruz,andres ibañez,santa cruz,75924,123654
+tarija,cercado,tarija,16884,26899
