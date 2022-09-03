@@ -24,8 +24,10 @@ jobs:
         run: |
           mkdir -p data/cartografia/departamentos/
           mkdir -p data/convocatorias/
+          mkdir -p data/cronograma/
           python update/cartografia.py
           python update/convocatorias.py
+          python update/cronograma.py
       - name: commit
         run: |
           git config --global user.email "canceles_elevando@example.com"
