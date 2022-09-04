@@ -14,4 +14,4 @@ df['_links.children'] = df['_links.children'].apply(lambda x: [i['href'].split('
 df.columns = names
 df = df.sort_values(['id'])
 with open('data/cronograma/cronograma.json', 'w+') as f: 
-    json.dump(df.set_index('id').to_dict(orient='index'), f, ensure_ascii=False)
+    json.dump(df.set_index('id').to_dict(orient='index'), f, ensure_ascii=False, indent=2)
