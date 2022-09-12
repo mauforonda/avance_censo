@@ -1,8 +1,10 @@
 id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,area,viviendas_2012,viviendas_2022,fecha_aprobacion
 6066,106066,chuquisaca,oropeza,sucre,01,01001,01,08,01,101,153,2022-09-08T18:51:46.743Z
+6431,106431,chuquisaca,oropeza,sucre,01,01001,02,05,01,101,167,2022-09-11T13:02:39.221Z
 6045,106045,chuquisaca,oropeza,sucre,01,01001,02,03,01,104,131,2022-09-08T22:50:04.935Z
 6080,106080,chuquisaca,oropeza,sucre,01,01001,04,07,01,105,155,2022-09-09T16:30:52.462Z
 6435,106435,chuquisaca,oropeza,sucre,01,01001,03,04,01,109,199,2022-09-09T21:50:36.967Z
+6051,106051,chuquisaca,oropeza,sucre,01,01001,02,11,01,111,122,2022-09-11T13:31:23.562Z
 6078,106078,chuquisaca,oropeza,sucre,01,01001,06,08,01,112,151,2022-09-09T18:17:16.378Z
 6704,106704,chuquisaca,oropeza,sucre,05,01001,05,01,05,113,114,2022-09-10T19:41:38.610Z
 6073,106073,chuquisaca,oropeza,sucre,01,01001,05,11,01,113,146,2022-09-08T10:44:07.973Z
@@ -14,6 +16,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 6104,106104,chuquisaca,oropeza,sucre,01,01001,09,10,01,34,46,2022-09-07T20:33:41.541Z
 6061,106061,chuquisaca,oropeza,sucre,01,01001,03,02,01,36,52,2022-09-08T21:41:37.264Z
 6583,106583,chuquisaca,oropeza,sucre,01,01001,09,04,01,37,50,2022-09-09T15:04:53.967Z
+6445,106445,chuquisaca,oropeza,sucre,01,01001,07,03,01,43,83,2022-09-11T14:08:39.274Z
 6573,106573,chuquisaca,oropeza,sucre,01,01001,06,01,01,45,83,2022-09-09T12:52:35.284Z
 6058,106058,chuquisaca,oropeza,sucre,01,01001,03,09,01,45,87,2022-09-06T19:57:24.189Z
 6062,106062,chuquisaca,oropeza,sucre,01,01001,03,03,01,45,94,2022-09-09T14:04:40.104Z
@@ -29,6 +32,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 6053,106053,chuquisaca,oropeza,sucre,01,01001,03,06,01,60,168,2022-09-08T01:52:49.270Z
 6701,106701,chuquisaca,oropeza,sucre,05,01001,07,04,05,61,76,2022-09-10T02:28:48.291Z
 6083,106083,chuquisaca,oropeza,sucre,01,01001,04,08,01,64,94,2022-09-08T12:45:03.006Z
+6622,106622,chuquisaca,oropeza,sucre,04,01001,07,03,04,66,106,2022-09-11T13:55:33.900Z
 6457,106457,chuquisaca,oropeza,sucre,01,01001,05,07,01,67,117,2022-09-10T17:04:28.221Z
 6586,106586,chuquisaca,oropeza,sucre,01,01001,09,06,01,67,81,2022-09-09T16:09:51.956Z
 6077,106077,chuquisaca,oropeza,sucre,01,01001,06,07,01,67,85,2022-09-09T18:17:12.883Z
@@ -53,7 +57,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 6619,106619,chuquisaca,oropeza,sucre,04,01001,08,01,04,80,150,2022-09-10T18:54:07.081Z
 6700,106700,chuquisaca,oropeza,sucre,05,01001,07,03,05,80,77,2022-09-10T02:28:21.477Z
 6453,106453,chuquisaca,oropeza,sucre,01,01001,05,02,01,80,93,2022-09-10T18:19:46.239Z
-6455,106455,chuquisaca,oropeza,sucre,01,01001,05,03,01,82,101,2022-09-10T19:53:20.684Z
+6455,106455,chuquisaca,oropeza,sucre,01,01001,05,03,01,82,100,2022-09-10T19:53:20.684Z
 6055,106055,chuquisaca,oropeza,sucre,01,01001,08,04,01,82,118,2022-09-10T18:56:29.832Z
 6449,106449,chuquisaca,oropeza,sucre,01,01001,04,03,01,82,127,2022-09-09T23:32:47.143Z
 6071,106071,chuquisaca,oropeza,sucre,01,01001,05,05,01,83,104,2022-09-09T22:02:00.237Z
@@ -71,4 +75,5 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 6067,106067,chuquisaca,oropeza,sucre,01,01001,04,01,01,96,134,2022-09-09T23:38:41.622Z
 6434,106434,chuquisaca,oropeza,sucre,01,01001,03,05,01,96,238,2022-09-08T22:30:04.065Z
 6574,106574,chuquisaca,oropeza,sucre,01,01001,06,09,01,96,99,2022-09-09T12:48:02.806Z
+6050,106050,chuquisaca,oropeza,sucre,01,01001,02,04,01,97,112,2022-09-11T13:30:18.667Z
 6084,106084,chuquisaca,oropeza,sucre,01,01001,07,04,01,97,120,2022-09-08T00:01:06.339Z
