@@ -1,7 +1,7 @@
 departamento,provincia,municipio,viviendas_2012,viviendas_2022
 beni,cercado,san ignacio  de moxos,106,187
 beni,cercado,san javier,31,195
-beni,cercado,trinidad,26109,48930
+beni,cercado,trinidad,26314,49397
 beni,gral. jose ballivian,san borja,4462,8909
 beni,itenez,baures,494,1054
 beni,itenez,huacaraje,685,1495
@@ -15,12 +15,12 @@ beni,vaca diez,guayaramerin,8908,17601
 beni,vaca diez,riberalta,18565,39817
 beni,yacuma,marban,71,125
 beni,yacuma,santa ana de yacuma,76,103
-chuquisaca,oropeza,sucre,8495,12895
+chuquisaca,oropeza,sucre,8327,12807
 oruro,cercado,caracollo,2164,4159
-oruro,cercado,el choro,438,608
+oruro,cercado,el choro,501,758
 oruro,cercado,oruro,88240,169872
-oruro,cercado,paria (soracachi),201,677
-oruro,pantaleon dalence,huanuni,5845,8267
+oruro,cercado,paria (soracachi),394,900
+oruro,pantaleon dalence,huanuni,6094,8554
 oruro,pantaleon dalence,machacamarca,1080,1791
 pando,abuna,santa rosa,99,411
 pando,madre de dios,puerto gonzalo moreno,418,714
@@ -36,8 +36,8 @@ potosi,cornelio saavedra,chaqui,641,947
 potosi,jose maria linarez,"caiza ""d""",844,1690
 potosi,jose maria linarez,puna,1286,2272
 potosi,tomas frias,potosi,50745,89599
-potosi,tomas frias,tinguipaya,1822,2783
+potosi,tomas frias,tinguipaya,2241,3379
 potosi,tomas frias,urmiri,859,882
-potosi,tomas frias,yocalla,2636,3774
-santa_cruz,andres ibañez,santa cruz,98100,159899
-tarija,cercado,tarija,32569,52763
+potosi,tomas frias,yocalla,2444,3485
+santa_cruz,andres ibañez,santa cruz,99574,162579
+tarija,cercado,tarija,34135,55802
