@@ -13,7 +13,7 @@ def get_convocatorias():
     convocatorias = []
     for i, row in tabla.iterrows():
         for depto in row['num_vacancia'].split(','):
-            demanda = int(depto.split(' ')[0])
+            demanda = int(depto.strip().split(' ')[0])
             nombre = '_'.join(depto.strip().split(' ')[1:])
             convocatorias.append({'fecha_publicacion':row['fecha_publicacion'], 'fecha_limite':row['fecha_fin_conv'], 'departamento': nombre, 'referencia': row['referencia'], 'demanda': demanda})
             
