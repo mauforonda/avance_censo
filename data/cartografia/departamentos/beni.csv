@@ -102,6 +102,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 3599,803599,beni,vaca diez,riberalta,04,01001,04,08,04,0,70,2022-08-05T20:21:51.888Z
 2196,802196,beni,cercado,trinidad,07,01001,01,03,07,0,72,2022-07-25T14:17:19.596Z
 4859,804859,beni,vaca diez,guayaramerin,04,01001,03,11,04,0,75,2022-08-19T12:45:15.603Z
+6208,806208,beni,vaca diez,guayaramerin,00,00000,00,01,00,0,77,2022-09-17T14:47:20.219Z
 3939,803939,beni,vaca diez,riberalta,06,01001,02,18,06,0,78,2022-08-08T23:02:55.485Z
 5099,805099,beni,itenez,magdalena,01,01014,01,02,01,0,8,2022-08-21T02:22:56.764Z
 3601,803601,beni,vaca diez,riberalta,06,01001,01,16,06,0,81,2022-08-08T13:45:05.218Z
@@ -228,6 +229,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 3052,803052,beni,vaca diez,riberalta,05,01001,02,08,05,167,292,2022-08-19T01:19:18.775Z
 5393,805393,beni,itenez,magdalena,01,03009,01,03,01,17,41,2022-08-27T20:59:22.043Z
 3363,803363,beni,marban,loreto,01,01020,01,01,01,17,52,2022-08-21T02:55:32.452Z
+6175,806175,beni,vaca diez,riberalta,00,00000,00,02,00,170,240,2022-09-17T14:46:45.312Z
 3556,803556,beni,vaca diez,riberalta,04,01001,02,03,04,18,158,2022-08-06T15:28:07.932Z
 5103,805103,beni,gral. jose ballivian,san borja,01,01019,01,01,01,18,64,2022-08-16T15:20:07.954Z
 5123,805123,beni,moxos,san ignacio,01,01712,01,04,01,18,67,2022-08-18T20:03:15.937Z
@@ -488,6 +490,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 5032,805032,beni,itenez,magdalena,01,03001,01,04,01,52,91,2022-08-25T15:37:54.662Z
 508,800508,beni,cercado,trinidad,03,01001,01,11,03,52,94,2022-07-20T19:49:24.210Z
 147,800147,beni,cercado,trinidad,01,01001,01,13,01,53,103,2022-07-06T13:05:35.113Z
+6164,806164,beni,yacuma,exaltacion,00,00000,00,02,00,53,107,2022-09-18T03:19:03.656Z
 4999,804999,beni,itenez,baures,01,01002,01,07,01,53,118,2022-08-22T15:01:30.589Z
 4189,804189,beni,vaca diez,guayaramerin,02,01001,03,12,02,53,119,2022-08-27T17:41:37.446Z
 5523,805523,beni,itenez,magdalena,01,01014,02,12,01,53,123,2022-08-24T14:10:23.939Z
