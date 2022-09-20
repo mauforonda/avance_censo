@@ -320,6 +320,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 4090,504090,potosi,antonio quijarro,porco,01,01005,02,05,01,20,60,2022-08-09T18:58:01.468Z
 4099,504099,potosi,antonio quijarro,porco,01,01005,02,06,01,20,60,2022-08-10T18:59:06.785Z
 3696,503696,potosi,cornelio saavedra,betanzos,01,01001,03,08,01,20,61,2022-08-02T21:08:18.022Z
+6216,506216,potosi,tomas frias,tinguipaya,00,00000,00,16,00,208,439,2022-09-19T21:41:27.191Z
 1588,501588,potosi,tomas frias,potosi,02,01001,03,10,02,21,118,2022-08-09T18:33:42.559Z
 5406,505406,potosi,tomas frias,yocalla,01,03001,01,04,01,21,30,2022-08-23T20:56:58.560Z
 2317,502317,potosi,tomas frias,potosi,15,01001,02,02,15,22,32,2022-07-26T23:30:57.190Z
@@ -375,6 +376,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 1359,501359,potosi,tomas frias,potosi,11,01001,01,07,11,33,51,2022-06-13T18:44:11.958Z
 383,500383,potosi,tomas frias,potosi,05,01001,06,05,05,33,56,2022-07-22T20:46:10.129Z
 2825,502825,potosi,tomas frias,potosi,17,01001,01,04,17,33,69,2022-07-20T12:48:47.388Z
+6797,506797,potosi,tomas frias,tinguipaya,00,00000,00,05,00,334,371,2022-09-19T18:50:24.794Z
 4062,504062,potosi,antonio quijarro,porco,01,01005,01,05,01,34,120,2022-08-09T17:43:51.388Z
 4892,504892,potosi,jose maria linarez,puna,01,08033,01,03,01,34,34,2022-08-16T20:43:46.363Z
 6264,506264,potosi,tomas frias,potosi,01,03023,01,04,01,34,36,2022-09-09T21:08:25.607Z
@@ -410,6 +412,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 823,500823,potosi,tomas frias,potosi,05,01001,02,01,05,39,74,2022-07-20T21:52:47.882Z
 3859,503859,potosi,tomas frias,potosi,01,03016,01,06,01,39,78,2022-08-10T15:26:17.627Z
 1698,501698,potosi,tomas frias,potosi,11,01001,01,17,11,39,95,2022-07-21T22:49:50.170Z
+7174,507174,potosi,tomas frias,tinguipaya,00,00000,00,07,00,393,399,2022-09-19T21:41:11.481Z
 1706,501706,potosi,tomas frias,potosi,02,01001,03,06,02,4,146,2022-06-24T22:32:48.039Z
 1331,501331,potosi,tomas frias,potosi,05,01001,02,14,05,4,17,2022-07-20T21:53:02.417Z
 5439,505439,potosi,tomas frias,yocalla,01,03039,01,03,01,4,20,2022-08-23T21:00:56.888Z
