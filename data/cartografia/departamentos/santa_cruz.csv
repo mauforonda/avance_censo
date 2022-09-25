@@ -7,6 +7,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 5085,705085,santa_cruz,andres ibañez,santa cruz,10,01001,22,13,10,0,20,2022-09-14T03:47:56.815Z
 4855,704855,santa_cruz,andres ibañez,santa cruz,09,01001,22,14,09,0,22,2022-08-26T03:10:26.937Z
 4661,704661,santa_cruz,andres ibañez,santa cruz,09,01001,22,17,09,0,27,2022-08-21T17:24:13.956Z
+8023,708023,santa_cruz,andres ibañez,santa cruz,12,01001,15,10,12,0,43,2022-09-25T14:15:54.754Z
 7948,707948,santa_cruz,andres ibañez,santa cruz,12,01001,16,15,12,0,67,2022-09-20T20:16:28.819Z
 5503,705503,santa_cruz,andres ibañez,santa cruz,10,01001,23,15,10,0,68,2022-08-23T00:26:20.057Z
 2333,702333,santa_cruz,andres ibañez,santa cruz,03,01001,10,14,03,0,7,2022-07-13T20:32:01.159Z
@@ -46,6 +47,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 5938,705938,santa_cruz,andres ibañez,santa cruz,10,01001,04,10,10,102,155,2022-09-02T13:21:13.290Z
 2545,702545,santa_cruz,andres ibañez,santa cruz,03,01001,03,14,03,102,175,2022-09-03T20:03:49.173Z
 4378,704378,santa_cruz,andres ibañez,santa cruz,09,01001,13,18,09,102,182,2022-08-21T22:53:23.038Z
+8082,708082,santa_cruz,andres ibañez,santa cruz,12,01001,28,06,12,102,188,2022-09-25T02:09:37.560Z
 2670,702670,santa_cruz,andres ibañez,santa cruz,03,01001,01,05,03,102,59,2022-08-02T22:45:22.237Z
 5501,705501,santa_cruz,andres ibañez,santa cruz,10,01001,15,01,10,103,129,2022-09-02T23:52:07.521Z
 3275,703275,santa_cruz,andres ibañez,santa cruz,04,01001,15,13,04,103,132,2022-08-20T11:55:52.278Z
@@ -100,6 +102,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 5841,705841,santa_cruz,andres ibañez,santa cruz,10,01001,04,02,10,111,163,2022-09-02T01:36:35.687Z
 3021,703021,santa_cruz,andres ibañez,santa cruz,04,01001,08,14,04,111,164,2022-08-23T18:06:55.726Z
 3439,703439,santa_cruz,andres ibañez,santa cruz,09,01001,02,16,09,111,179,2022-08-21T22:30:14.250Z
+8078,708078,santa_cruz,andres ibañez,santa cruz,12,01001,27,01,12,111,185,2022-09-25T02:06:21.403Z
 6348,706348,santa_cruz,andres ibañez,santa cruz,10,01001,02,07,10,111,210,2022-09-10T14:16:54.623Z
 3519,703519,santa_cruz,andres ibañez,santa cruz,09,01001,02,13,09,111,238,2022-08-21T22:47:18.040Z
 2335,702335,santa_cruz,andres ibañez,santa cruz,03,01001,09,10,03,112,138,2022-08-26T02:19:29.254Z
@@ -183,6 +186,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 4853,704853,santa_cruz,andres ibañez,santa cruz,09,01001,22,13,09,24,80,2022-08-21T22:54:20.481Z
 3498,703498,santa_cruz,andres ibañez,santa cruz,09,01001,02,03,09,27,36,2022-08-21T21:32:57.723Z
 2536,702536,santa_cruz,andres ibañez,santa cruz,03,01001,08,12,03,27,40,2022-08-01T12:32:45.533Z
+8086,708086,santa_cruz,andres ibañez,santa cruz,12,01001,31,14,12,28,46,2022-09-25T02:03:56.614Z
 4965,704965,santa_cruz,andres ibañez,santa cruz,10,01001,22,15,10,29,124,2022-09-10T02:14:50.020Z
 6319,706319,santa_cruz,andres ibañez,santa cruz,10,01001,02,01,10,29,74,2022-09-10T17:12:41.191Z
 2594,702594,santa_cruz,andres ibañez,santa cruz,03,01001,02,01,03,29,77,2022-08-07T17:06:56.383Z
@@ -218,6 +222,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 4434,704434,santa_cruz,andres ibañez,santa cruz,09,01001,13,13,09,38,108,2022-08-15T03:06:23.586Z
 3500,703500,santa_cruz,andres ibañez,santa cruz,09,01001,02,11,09,38,54,2022-08-08T22:46:50.433Z
 2532,702532,santa_cruz,andres ibañez,santa cruz,03,01001,01,04,03,38,71,2022-07-20T14:07:00.690Z
+8084,708084,santa_cruz,andres ibañez,santa cruz,12,01001,31,13,12,38,78,2022-09-25T02:07:02.653Z
 2944,702944,santa_cruz,andres ibañez,santa cruz,04,01001,09,15,04,38,93,2022-08-05T22:53:16.401Z
 7078,707078,santa_cruz,andres ibañez,santa cruz,12,01001,09,17,12,39,104,2022-09-15T12:43:41.115Z
 3023,703023,santa_cruz,andres ibañez,santa cruz,04,01001,08,15,04,39,113,2022-08-15T12:24:55.333Z
@@ -280,6 +285,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 7018,707018,santa_cruz,andres ibañez,santa cruz,12,01001,09,09,12,46,93,2022-09-23T17:58:28.309Z
 4946,704946,santa_cruz,andres ibañez,santa cruz,09,01001,22,02,09,46,99,2022-08-26T23:10:15.841Z
 7117,707117,santa_cruz,andres ibañez,santa cruz,12,01001,09,03,12,47,102,2022-09-14T20:10:12.656Z
+8089,708089,santa_cruz,andres ibañez,santa cruz,12,01001,14,14,12,47,104,2022-09-25T02:18:09.197Z
 5484,705484,santa_cruz,andres ibañez,santa cruz,10,01001,16,16,10,47,106,2022-08-27T18:29:02.955Z
 3523,703523,santa_cruz,andres ibañez,santa cruz,09,01001,07,15,09,47,142,2022-08-22T21:29:16.084Z
 3290,703290,santa_cruz,andres ibañez,santa cruz,04,01001,10,07,04,47,186,2022-08-21T23:22:14.875Z
@@ -418,10 +424,12 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 7850,707850,santa_cruz,andres ibañez,santa cruz,12,01001,20,04,12,54,98,2022-09-20T12:59:19.049Z
 7061,707061,santa_cruz,andres ibañez,santa cruz,12,01001,05,08,12,55,103,2022-09-14T14:02:54.006Z
 6383,706383,santa_cruz,andres ibañez,santa cruz,10,01001,07,04,10,55,106,2022-09-05T19:16:29.993Z
+8076,708076,santa_cruz,andres ibañez,santa cruz,12,01001,15,08,12,55,113,2022-09-24T11:16:16.383Z
 4857,704857,santa_cruz,andres ibañez,santa cruz,09,01001,22,15,09,55,141,2022-08-26T03:10:48.262Z
 7828,707828,santa_cruz,andres ibañez,santa cruz,12,01001,15,13,12,55,217,2022-09-21T20:36:54.416Z
 4386,704386,santa_cruz,andres ibañez,santa cruz,09,01001,11,04,09,55,65,2022-08-11T17:50:35.420Z
 5491,705491,santa_cruz,andres ibañez,santa cruz,10,01001,19,04,10,55,67,2022-08-24T03:46:39.421Z
+8093,708093,santa_cruz,andres ibañez,santa cruz,12,01001,14,16,12,55,70,2022-09-25T12:05:04.860Z
 3191,703191,santa_cruz,andres ibañez,santa cruz,04,01001,01,10,04,55,74,2022-08-10T01:29:43.461Z
 6375,706375,santa_cruz,andres ibañez,santa cruz,10,01001,01,01,10,55,76,2022-09-07T20:33:34.310Z
 4701,704701,santa_cruz,andres ibañez,santa cruz,09,01001,16,06,09,55,77,2022-08-18T17:43:30.094Z
@@ -441,6 +449,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 7009,707009,santa_cruz,andres ibañez,santa cruz,12,01001,07,02,12,56,115,2022-09-16T03:30:39.543Z
 7100,707100,santa_cruz,andres ibañez,santa cruz,12,01001,12,11,12,56,125,2022-09-13T16:53:53.305Z
 3037,703037,santa_cruz,andres ibañez,santa cruz,04,01001,08,13,04,56,129,2022-08-01T12:37:21.986Z
+7936,707936,santa_cruz,andres ibañez,santa cruz,12,01001,28,16,12,56,336,2022-09-25T11:37:16.006Z
 2340,702340,santa_cruz,andres ibañez,santa cruz,03,01001,01,10,03,56,64,2022-08-14T13:29:15.124Z
 3453,703453,santa_cruz,andres ibañez,santa cruz,09,01001,05,03,09,56,66,2022-09-16T12:43:27.856Z
 3257,703257,santa_cruz,andres ibañez,santa cruz,04,01001,13,15,04,56,68,2022-08-05T22:53:42.171Z
@@ -611,6 +620,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 7817,707817,santa_cruz,andres ibañez,santa cruz,12,01001,18,02,12,63,115,2022-09-20T14:18:45.425Z
 3480,703480,santa_cruz,andres ibañez,santa cruz,09,01001,05,09,09,63,116,2022-08-09T02:21:37.664Z
 7841,707841,santa_cruz,andres ibañez,santa cruz,12,01001,18,04,12,63,126,2022-09-22T02:35:54.325Z
+7881,707881,santa_cruz,andres ibañez,santa cruz,12,01001,31,07,12,63,138,2022-09-25T01:13:25.252Z
 5586,705586,santa_cruz,andres ibañez,santa cruz,10,01001,19,17,10,63,141,2022-09-14T03:47:21.770Z
 5084,705084,santa_cruz,andres ibañez,santa cruz,10,01001,22,12,10,63,169,2022-09-03T23:50:15.086Z
 7846,707846,santa_cruz,andres ibañez,santa cruz,12,01001,15,09,12,63,178,2022-09-23T23:42:29.565Z
@@ -621,6 +631,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 2628,702628,santa_cruz,andres ibañez,santa cruz,03,01001,10,18,03,63,87,2022-08-19T17:46:48.323Z
 4410,704410,santa_cruz,andres ibañez,santa cruz,09,01001,01,14,09,63,93,2022-08-15T04:22:06.859Z
 4277,704277,santa_cruz,andres ibañez,santa cruz,09,01001,10,17,09,63,94,2022-08-27T17:42:35.592Z
+8070,708070,santa_cruz,andres ibañez,santa cruz,12,01001,14,07,12,63,96,2022-09-24T21:41:52.568Z
 2626,702626,santa_cruz,andres ibañez,santa cruz,03,01001,10,07,03,63,97,2022-08-07T23:58:35.519Z
 3305,703305,santa_cruz,andres ibañez,santa cruz,04,01001,15,08,04,63,98,2022-08-09T22:00:58.778Z
 2646,702646,santa_cruz,andres ibañez,santa cruz,03,01001,05,01,03,64,104,2022-08-19T17:47:01.479Z
@@ -659,8 +670,8 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 5832,705832,santa_cruz,andres ibañez,santa cruz,10,01001,11,01,10,65,75,2022-09-09T17:43:15.243Z
 3479,703479,santa_cruz,andres ibañez,santa cruz,09,01001,05,08,09,65,76,2022-08-09T02:21:34.765Z
 2551,702551,santa_cruz,andres ibañez,santa cruz,03,01001,08,17,03,65,79,2022-08-01T14:04:14.000Z
-8124,708124,santa_cruz,andres ibañez,santa cruz,12,01001,27,17,12,65,82,2022-09-22T14:13:16.704Z
 3280,703280,santa_cruz,andres ibañez,santa cruz,04,01001,10,03,04,65,84,2022-08-21T22:31:32.011Z
+8124,708124,santa_cruz,andres ibañez,santa cruz,12,01001,27,17,12,65,85,2022-09-24T20:36:57.493Z
 5855,705855,santa_cruz,andres ibañez,santa cruz,10,01001,04,07,10,65,86,2022-09-02T13:30:41.916Z
 4932,704932,santa_cruz,andres ibañez,santa cruz,09,01001,17,11,09,65,89,2022-08-26T23:10:02.250Z
 7065,707065,santa_cruz,andres ibañez,santa cruz,12,01001,02,16,12,65,89,2022-09-15T01:34:50.937Z
@@ -708,6 +719,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 2493,702493,santa_cruz,andres ibañez,santa cruz,03,01001,01,15,03,67,104,2022-08-01T14:10:02.277Z
 4232,704232,santa_cruz,andres ibañez,santa cruz,09,01001,08,13,09,67,104,2022-08-26T16:27:37.156Z
 5054,705054,santa_cruz,andres ibañez,santa cruz,09,01001,21,07,09,67,104,2022-08-26T22:55:32.799Z
+8091,708091,santa_cruz,andres ibañez,santa cruz,12,01001,14,15,12,67,104,2022-09-25T02:36:24.166Z
 7116,707116,santa_cruz,andres ibañez,santa cruz,12,01001,09,02,12,67,105,2022-09-14T19:58:28.525Z
 7059,707059,santa_cruz,andres ibañez,santa cruz,12,01001,12,14,12,67,109,2022-09-16T05:22:48.978Z
 7870,707870,santa_cruz,andres ibañez,santa cruz,12,01001,20,10,12,67,109,2022-09-22T02:25:37.610Z
@@ -754,8 +766,10 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 7094,707094,santa_cruz,andres ibañez,santa cruz,12,01001,08,07,12,68,131,2022-09-15T21:04:01.246Z
 6299,706299,santa_cruz,andres ibañez,santa cruz,12,01001,04,07,12,68,147,2022-09-16T20:25:15.481Z
 5947,705947,santa_cruz,andres ibañez,santa cruz,10,01001,06,03,10,68,150,2022-09-03T19:59:37.331Z
+7879,707879,santa_cruz,andres ibañez,santa cruz,12,01001,28,14,12,68,199,2022-09-25T01:13:28.063Z
 7953,707953,santa_cruz,andres ibañez,santa cruz,12,01001,28,11,12,68,203,2022-09-23T20:52:42.032Z
 4432,704432,santa_cruz,andres ibañez,santa cruz,09,01001,14,08,09,68,210,2022-09-17T20:24:51.568Z
+8080,708080,santa_cruz,andres ibañez,santa cruz,12,01001,27,02,12,68,78,2022-09-24T23:50:50.448Z
 2480,702480,santa_cruz,andres ibañez,santa cruz,03,01001,05,18,03,68,81,2022-08-17T19:04:48.563Z
 2972,702972,santa_cruz,andres ibañez,santa cruz,03,01001,07,09,03,68,85,2022-08-26T02:56:24.987Z
 4300,704300,santa_cruz,andres ibañez,santa cruz,09,01001,12,06,09,68,87,2022-08-18T20:36:19.837Z
@@ -822,6 +836,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 5066,705066,santa_cruz,andres ibañez,santa cruz,09,01001,19,04,09,70,154,2022-09-01T02:53:03.836Z
 5409,705409,santa_cruz,andres ibañez,santa cruz,10,01001,20,15,10,70,154,2022-09-01T02:51:37.860Z
 3443,703443,santa_cruz,andres ibañez,santa cruz,04,01001,16,01,04,70,156,2022-08-27T02:11:53.060Z
+7107,707107,santa_cruz,andres ibañez,santa cruz,12,01001,08,02,12,70,157,2022-09-24T20:19:53.370Z
 5040,705040,santa_cruz,andres ibañez,santa cruz,09,01001,18,01,09,70,164,2022-08-21T23:04:57.098Z
 7063,707063,santa_cruz,andres ibañez,santa cruz,12,01001,02,08,12,70,82,2022-09-15T01:34:29.551Z
 2815,702815,santa_cruz,andres ibañez,santa cruz,03,01001,06,07,03,70,84,2022-08-25T01:43:35.830Z
@@ -1057,9 +1072,11 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 5765,705765,santa_cruz,andres ibañez,santa cruz,10,01001,12,06,10,77,114,2022-09-01T03:01:50.309Z
 3314,703314,santa_cruz,andres ibañez,santa cruz,04,01001,14,06,04,77,118,2022-07-30T20:47:18.761Z
 4702,704702,santa_cruz,andres ibañez,santa cruz,09,01001,18,10,09,77,119,2022-08-21T18:55:29.263Z
+8017,708017,santa_cruz,andres ibañez,santa cruz,12,01001,18,11,12,77,119,2022-09-25T14:14:57.773Z
 3038,703038,santa_cruz,andres ibañez,santa cruz,04,01001,04,14,04,77,121,2022-08-15T08:44:29.151Z
 3401,703401,santa_cruz,andres ibañez,santa cruz,09,01001,06,12,09,77,121,2022-09-02T12:48:21.847Z
 4401,704401,santa_cruz,andres ibañez,santa cruz,09,01001,09,02,09,77,121,2022-08-21T21:59:25.424Z
+8071,708071,santa_cruz,andres ibañez,santa cruz,12,01001,14,08,12,77,121,2022-09-24T21:42:00.043Z
 4238,704238,santa_cruz,andres ibañez,santa cruz,09,01001,14,11,09,77,124,2022-09-01T02:52:39.996Z
 3454,703454,santa_cruz,andres ibañez,santa cruz,09,01001,06,11,09,77,125,2022-08-27T02:13:13.452Z
 2820,702820,santa_cruz,andres ibañez,santa cruz,04,01001,07,02,04,77,126,2022-08-01T19:34:36.271Z
@@ -1119,6 +1136,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 3524,703524,santa_cruz,andres ibañez,santa cruz,04,01001,15,11,04,78,85,2022-08-20T02:52:59.801Z
 2593,702593,santa_cruz,andres ibañez,santa cruz,03,01001,04,10,03,78,96,2022-08-02T22:18:23.639Z
 3295,703295,santa_cruz,andres ibañez,santa cruz,04,01001,14,13,04,79,100,2022-08-08T03:07:11.503Z
+8072,708072,santa_cruz,andres ibañez,santa cruz,12,01001,14,09,12,79,101,2022-09-24T22:06:28.656Z
 3460,703460,santa_cruz,andres ibañez,santa cruz,04,01001,17,02,04,79,105,2022-08-05T20:41:14.291Z
 7087,707087,santa_cruz,andres ibañez,santa cruz,12,01001,10,05,12,79,106,2022-09-12T21:12:57.392Z
 2660,702660,santa_cruz,andres ibañez,santa cruz,03,01001,08,06,03,79,107,2022-08-08T01:15:04.688Z
@@ -1144,6 +1162,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 4292,704292,santa_cruz,andres ibañez,santa cruz,09,01001,13,09,09,80,107,2022-09-02T12:50:25.120Z
 4384,704384,santa_cruz,andres ibañez,santa cruz,09,01001,11,09,09,80,109,2022-08-15T00:28:05.509Z
 5818,705818,santa_cruz,andres ibañez,santa cruz,10,01001,03,04,10,80,115,2022-09-02T18:04:27.699Z
+7884,707884,santa_cruz,andres ibañez,santa cruz,12,01001,31,08,12,80,115,2022-09-24T20:20:27.637Z
 2592,702592,santa_cruz,andres ibañez,santa cruz,03,01001,04,09,03,80,116,2022-08-02T22:15:19.091Z
 5871,705871,santa_cruz,andres ibañez,santa cruz,10,01001,12,18,10,80,119,2022-09-01T02:40:00.784Z
 3424,703424,santa_cruz,andres ibañez,santa cruz,09,01001,04,11,09,80,124,2022-08-08T20:01:12.408Z
@@ -1183,6 +1202,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 2563,702563,santa_cruz,andres ibañez,santa cruz,03,01001,09,13,03,81,123,2022-08-20T16:14:26.091Z
 6324,706324,santa_cruz,andres ibañez,santa cruz,12,01001,01,01,12,81,123,2022-09-16T18:56:49.632Z
 7039,707039,santa_cruz,andres ibañez,santa cruz,12,01001,08,11,12,81,126,2022-09-21T01:16:47.055Z
+7109,707109,santa_cruz,andres ibañez,santa cruz,12,01001,21,06,12,81,130,2022-09-24T20:19:56.804Z
 3265,703265,santa_cruz,andres ibañez,santa cruz,04,01001,02,10,04,81,131,2022-08-05T22:45:55.466Z
 2555,702555,santa_cruz,andres ibañez,santa cruz,03,01001,09,16,03,81,132,2022-08-13T14:32:45.797Z
 7104,707104,santa_cruz,andres ibañez,santa cruz,12,01001,02,04,12,81,144,2022-09-18T19:01:23.385Z
@@ -1271,6 +1291,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 2669,702669,santa_cruz,andres ibañez,santa cruz,03,01001,01,01,03,84,75,2022-08-02T22:45:19.894Z
 3186,703186,santa_cruz,andres ibañez,santa cruz,04,01001,03,02,04,84,93,2022-08-03T15:42:04.366Z
 2965,702965,santa_cruz,andres ibañez,santa cruz,04,01001,04,02,04,85,108,2022-08-05T22:45:50.994Z
+8021,708021,santa_cruz,andres ibañez,santa cruz,12,01001,18,15,12,85,108,2022-09-25T14:15:02.105Z
 2802,702802,santa_cruz,andres ibañez,santa cruz,04,01001,06,02,04,85,113,2022-09-01T03:05:26.809Z
 2994,702994,santa_cruz,andres ibañez,santa cruz,03,01001,07,16,03,85,114,2022-08-21T20:58:27.187Z
 2464,702464,santa_cruz,andres ibañez,santa cruz,03,01001,10,01,03,85,118,2022-08-25T03:26:30.622Z
@@ -1389,6 +1410,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 4412,704412,santa_cruz,andres ibañez,santa cruz,09,01001,12,17,09,90,135,2022-08-15T04:22:11.386Z
 7080,707080,santa_cruz,andres ibañez,santa cruz,12,01001,06,08,12,90,135,2022-09-17T18:12:07.718Z
 5431,705431,santa_cruz,andres ibañez,santa cruz,10,01001,10,01,10,90,139,2022-09-16T03:29:51.191Z
+8027,708027,santa_cruz,andres ibañez,santa cruz,12,01001,19,04,12,90,141,2022-09-25T14:21:47.959Z
 4865,704865,santa_cruz,andres ibañez,santa cruz,10,01001,20,08,10,90,142,2022-08-21T23:17:18.367Z
 5884,705884,santa_cruz,andres ibañez,santa cruz,10,01001,14,07,10,90,142,2022-08-30T12:14:09.636Z
 2865,702865,santa_cruz,andres ibañez,santa cruz,04,01001,09,08,04,90,145,2022-09-01T01:44:06.983Z
