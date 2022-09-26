@@ -1,17 +1,27 @@
 id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,area,viviendas_2012,viviendas_2022,fecha_aprobacion
 7718,207718,la_paz,murillo,nuestra señora de la paz,15,01001,07,16,15,33,67,2022-09-24T01:08:35.872Z
 7552,207552,la_paz,murillo,nuestra señora de la paz,15,01001,01,06,15,40,35,2022-09-24T01:03:32.646Z
+7701,207701,la_paz,murillo,nuestra señora de la paz,15,01001,07,10,15,41,51,2022-09-26T09:57:56.338Z
+7359,207359,la_paz,murillo,nuestra señora de la paz,15,01001,03,03,15,41,60,2022-09-25T23:12:13.692Z
 7831,207831,la_paz,murillo,el alto,04,01001,02,03,04,44,40,2022-09-22T20:40:57.517Z
 7954,207954,la_paz,murillo,el alto,04,01001,10,05,04,46,56,2022-09-23T21:44:28.774Z
+7400,207400,la_paz,murillo,nuestra señora de la paz,15,01001,02,07,15,48,56,2022-09-25T20:39:37.068Z
 7364,207364,la_paz,murillo,nuestra señora de la paz,15,01001,03,12,15,50,89,2022-09-25T01:56:15.139Z
+7358,207358,la_paz,murillo,nuestra señora de la paz,15,01001,03,08,15,51,100,2022-09-25T23:25:19.781Z
 7946,207946,la_paz,murillo,el alto,04,01001,10,14,04,51,50,2022-09-23T20:33:45.667Z
+7705,207705,la_paz,murillo,nuestra señora de la paz,15,01001,07,12,15,52,72,2022-09-26T10:34:18.861Z
 7555,207555,la_paz,murillo,nuestra señora de la paz,15,01001,01,08,15,55,84,2022-09-23T23:36:40.417Z
+7537,207537,la_paz,murillo,nuestra señora de la paz,15,01001,02,10,15,55,87,2022-09-25T19:12:52.610Z
 7387,207387,la_paz,murillo,nuestra señora de la paz,15,01001,02,05,15,56,80,2022-09-24T01:04:57.637Z
 7901,207901,la_paz,murillo,el alto,04,01001,02,16,04,57,108,2022-09-24T14:17:54.558Z
+7696,207696,la_paz,murillo,nuestra señora de la paz,15,01001,07,06,15,57,64,2022-09-26T10:06:05.329Z
 7558,207558,la_paz,murillo,nuestra señora de la paz,15,01001,01,04,15,57,77,2022-09-23T23:37:00.572Z
+7697,207697,la_paz,murillo,nuestra señora de la paz,15,01001,07,07,15,58,81,2022-09-26T10:10:30.019Z
 7365,207365,la_paz,murillo,nuestra señora de la paz,15,01001,03,13,15,59,77,2022-09-25T01:57:17.345Z
+7369,207369,la_paz,murillo,nuestra señora de la paz,15,01001,03,18,15,60,74,2022-09-25T22:54:19.008Z
 7744,207744,la_paz,murillo,nuestra señora de la paz,15,01001,06,06,15,60,76,2022-09-24T20:32:53.441Z
 7375,207375,la_paz,murillo,nuestra señora de la paz,15,01001,03,09,15,60,87,2022-09-23T23:34:36.673Z
+7698,207698,la_paz,murillo,nuestra señora de la paz,15,01001,07,08,15,61,69,2022-09-26T09:47:31.099Z
 7373,207373,la_paz,murillo,nuestra señora de la paz,15,01001,03,01,15,61,76,2022-09-22T19:08:14.196Z
 7385,207385,la_paz,murillo,nuestra señora de la paz,15,01001,02,04,15,62,64,2022-09-23T23:54:29.891Z
 7374,207374,la_paz,murillo,nuestra señora de la paz,15,01001,03,02,15,63,73,2022-09-22T19:13:48.211Z
@@ -19,18 +29,29 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 7616,207616,la_paz,murillo,nuestra señora de la paz,15,01001,05,09,15,65,75,2022-09-24T01:28:31.276Z
 7390,207390,la_paz,murillo,nuestra señora de la paz,15,01001,02,06,15,65,77,2022-09-25T13:20:19.076Z
 7366,207366,la_paz,murillo,nuestra señora de la paz,15,01001,03,11,15,65,91,2022-09-25T10:53:10.265Z
+7707,207707,la_paz,murillo,nuestra señora de la paz,15,01001,07,04,15,68,68,2022-09-26T10:34:24.436Z
 7356,207356,la_paz,murillo,nuestra señora de la paz,15,01001,03,06,15,68,92,2022-09-24T23:56:46.517Z
 7717,207717,la_paz,murillo,nuestra señora de la paz,15,01001,07,15,15,69,103,2022-09-24T01:43:13.012Z
 7725,207725,la_paz,murillo,nuestra señora de la paz,15,01001,06,15,15,69,74,2022-09-24T17:09:12.496Z
-7355,207355,la_paz,murillo,nuestra señora de la paz,15,01001,03,05,15,71,113,2022-09-24T23:54:42.064Z
+7360,207360,la_paz,murillo,nuestra señora de la paz,15,01001,03,04,15,69,89,2022-09-25T23:58:41.992Z
+7355,207355,la_paz,murillo,nuestra señora de la paz,15,01001,03,05,15,71,113,2022-09-26T00:27:12.535Z
 7962,207962,la_paz,murillo,el alto,04,01001,10,04,04,71,83,2022-09-23T21:48:36.203Z
 7743,207743,la_paz,murillo,nuestra señora de la paz,15,01001,06,04,15,76,92,2022-09-24T20:31:14.134Z
+7367,207367,la_paz,murillo,nuestra señora de la paz,15,01001,03,14,15,78,123,2022-09-25T21:25:56.641Z
 7777,207777,la_paz,murillo,el alto,04,01001,01,10,04,78,136,2022-09-24T17:01:03.715Z
+7542,207542,la_paz,murillo,nuestra señora de la paz,15,01001,02,11,15,79,112,2022-09-25T19:18:32.693Z
 7388,207388,la_paz,murillo,nuestra señora de la paz,15,01001,02,16,15,79,86,2022-09-25T03:13:54.353Z
 7530,207530,la_paz,murillo,nuestra señora de la paz,15,01001,02,02,15,80,89,2022-09-25T14:31:18.366Z
+7700,207700,la_paz,murillo,nuestra señora de la paz,15,01001,07,05,15,81,100,2022-09-26T10:05:45.142Z
+7617,207617,la_paz,murillo,nuestra señora de la paz,15,01001,05,10,15,81,104,2022-09-25T21:47:43.109Z
 7726,207726,la_paz,murillo,nuestra señora de la paz,15,01001,06,16,15,81,90,2022-09-24T00:57:45.397Z
+7368,207368,la_paz,murillo,nuestra señora de la paz,15,01001,03,17,15,85,99,2022-09-25T21:50:05.290Z
+7699,207699,la_paz,murillo,nuestra señora de la paz,15,01001,07,09,15,87,116,2022-09-26T10:05:40.285Z
 7952,207952,la_paz,murillo,el alto,04,01001,10,10,04,89,109,2022-09-23T22:40:59.708Z
 7715,207715,la_paz,murillo,nuestra señora de la paz,15,01001,07,01,15,89,117,2022-09-24T16:17:14.645Z
 7956,207956,la_paz,murillo,el alto,04,01001,10,06,04,91,125,2022-09-23T20:33:18.027Z
 7947,207947,la_paz,murillo,el alto,04,01001,10,15,04,92,115,2022-09-23T21:17:55.227Z
+7357,207357,la_paz,murillo,nuestra señora de la paz,15,01001,03,07,15,93,103,2022-09-25T23:27:31.458Z
 7950,207950,la_paz,murillo,el alto,04,01001,10,09,04,93,115,2022-09-23T22:40:32.724Z
+7590,207590,la_paz,murillo,nuestra señora de la paz,15,01001,05,01,15,95,127,2022-09-25T20:35:06.869Z
+7547,207547,la_paz,murillo,nuestra señora de la paz,15,01001,02,01,15,98,125,2022-09-25T21:32:21.794Z
