@@ -21,7 +21,7 @@ def get_departamento(departamento):
     print('cartografia: {}'.format(departamento['nombre']))
     url = 'https://wsmon.ine.gob.bo/dashboard/tablaViviendas/{}'
     header = ['id_upm', 'codigo', 'departamento', 'provincia', 'municipio', 'area_censo', 'comunidad', 'zona', 'sector', 'area', 'viviendas_2012', 'viviendas_2022', 'fecha_aprobacion']
-    response = requests.get(url.format(departamento['codigo']), timeout=60)
+    response = requests.get(url.format(departamento['codigo']), timeout=120)
     if response.status_code == 200 and response.text != '[]':
         data = pd.DataFrame(response.json())
         # data = pd.read_json(url.format(departamento['codigo']))
@@ -48,7 +48,7 @@ def update_timeline(resumen):
 
 def update_presentacion():
     url = 'https://wsmon.ine.gob.bo/dashboard/presentacionFecha'
-    response = requests.get(url, timeout=60)
+    response = requests.get(url, timeout=120)
     if response.status_code == 200 and response.text != '[]':
         data = pd.DataFrame(response.json())
         data['feccre'] = pd.to_datetime(data.feccre)
