@@ -103,7 +103,6 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 33,900033,pando,nicolas suarez,cobija,02,01001,02,05,02,106,90,2022-07-23T16:44:14.570Z
 780,900780,pando,nicolas suarez,cobija,04,01001,01,01,04,108,135,2022-07-18T19:38:12.027Z
 448,900448,pando,nicolas suarez,cobija,04,01001,03,02,04,108,155,2022-07-23T16:42:25.285Z
-6226,906226,pando,nicolas suarez,porvenir,00,00000,00,05,00,109,154,2022-09-25T17:08:54.337Z
 776,900776,pando,nicolas suarez,cobija,04,01001,04,12,04,109,207,2022-07-22T01:25:53.104Z
 6228,906228,pando,nicolas suarez,porvenir,00,00000,00,06,00,109,220,2022-09-25T17:08:56.398Z
 2062,902062,pando,nicolas suarez,cobija,06,01001,04,15,06,11,123,2022-07-08T20:41:14.420Z
@@ -220,6 +219,7 @@ id_upm,codigo,departamento,provincia,municipio,area_censo,comunidad,zona,sector,
 3771,903771,pando,nicolas suarez,porvenir,01,01002,01,10,01,48,89,2022-08-24T23:44:20.179Z
 1866,901866,pando,nicolas suarez,cobija,06,01001,04,14,06,49,104,2022-07-20T18:50:48.222Z
 810,900810,pando,nicolas suarez,cobija,04,01001,04,11,04,49,114,2022-07-21T20:26:55.513Z
+7157,907157,pando,nicolas suarez,bolpebra,00,00000,00,01,00,49,136,2022-09-26T15:51:50.520Z
 1621,901621,pando,nicolas suarez,cobija,06,01001,01,11,06,5,52,2022-07-23T15:56:30.444Z
 1877,901877,pando,nicolas suarez,cobija,06,01001,04,13,06,5,56,2022-07-18T19:41:26.364Z
 4922,904922,pando,madre de dios,sena,01,01001,01,07,01,51,115,2022-08-25T19:06:09.494Z
