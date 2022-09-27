@@ -2,64 +2,43 @@
 import pandas as pd
 import datetime as dt
 import os
-import requests
 
-departamentos = [
-    {'nombre': 'chuquisaca', 'codigo': 1},
-    {'nombre': 'la_paz', 'codigo': 2},
-    {'nombre': 'cochabamba', 'codigo': 3},
-    {'nombre': 'oruro', 'codigo': 4},
-    {'nombre': 'potosi', 'codigo': 5},
-    {'nombre': 'tarija', 'codigo': 6},
-    {'nombre': 'santa_cruz', 'codigo': 7},
-    {'nombre': 'beni', 'codigo': 8},
-    {'nombre': 'pando', 'codigo': 9}
-]
-resumen = []
+def get_municipios():
+    url = 'https://wsmon.ine.gob.bo/dashboard/tablaMunicipio'
+    dfi = pd.read_json(url)
+    return dfi
 
-def get_departamento(departamento):
-    print('cartografia: {}'.format(departamento['nombre']))
-    url = 'https://wsmon.ine.gob.bo/dashboard/tablaViviendas/{}'
-    header = ['id_upm', 'codigo', 'departamento', 'provincia', 'municipio', 'area_censo', 'comunidad', 'zona', 'sector', 'area', 'viviendas_2012', 'viviendas_2022', 'fecha_aprobacion']
-    response = requests.get(url.format(departamento['codigo']), timeout=120)
-    if response.status_code == 200 and response.text != '[]':
-        data = pd.DataFrame(response.json())
-        # data = pd.read_json(url.format(departamento['codigo']))
-        if data.shape[0] > 0:
-            data = data.sort_values(['total_viv', 'total']).drop_duplicates(subset=['id_upm'], keep='last')
-            data.columns = header
-            data.departamento = departamento['nombre']
-            for col in ['provincia', 'municipio']:
-                data[col] = data[col].apply(lambda x: normalize(x))
-            for col in ['viviendas_2012', 'viviendas_2022']:
-                data[col] = data[col].astype(int)
-            data.to_csv('data/cartografia/departamentos/{}.csv'.format(departamento['nombre']), index=False)
-            resumen.append(data.groupby(['departamento', 'provincia', 'municipio'])[['viviendas_2012', 'viviendas_2022']].sum().reset_index())
+def get_timeline():
+    url = 'https://wsmon.ine.gob.bo/dashboard/tablaFecha'
+    dfi = pd.read_json(url)
+    for col in ['fecha_inicio', 'fecha_final']:
+        dfi[col] = pd.to_datetime(dfi[col])
+    return dfi
 
-def update_timeline(resumen):
-    fn = 'data/cartografia/timeline.csv'
-    fecha = dt.datetime.now().date() - dt.timedelta(days=1)
-    timeline = resumen.set_index(['departamento', 'provincia', 'municipio'])[['viviendas_2022']].T
-    timeline.index = [fecha]
+def save_weekly(times):
+    fn = 'data/cartografia/semanal.csv'
+    times.columns = ['departamento', 'fecha_inicio', 'fecha_final', 'viviendas']
+    times.to_csv(fn, date_format='%Y-%m-%d', index=False)
+
+def save_state(mun):
+    fn = 'data/cartografia/estado.csv'
+    mun.columns = ['departamento', 'provincia', 'municipio', 'viviendas']
+    mun.to_csv(fn, index=False)
+
+def save_daily(mun):
+    fn = 'data/cartografia/diario.csv'
+    mun.columns = ['departamento', 'provincia', 'municipio', 'viviendas']
+    ayer = dt.datetime.now().date() - dt.timedelta(days=1)
+    daily = mun.set_index(['departamento', 'provincia', 'municipio'])[['viviendas']].T
+    daily.index = [ayer]
     if os.path.exists(fn):
         old = pd.read_csv(fn, header=[0,1,2], index_col=[0])
-        timeline = pd.concat([old, timeline]).fillna(0).astype(int)
-    timeline.to_csv(fn)
+        daily = pd.concat([old, daily]).fillna(0).astype(int)
+    daily.to_csv(fn)
 
-def update_presentacion():
-    url = 'https://wsmon.ine.gob.bo/dashboard/presentacionFecha'
-    response = requests.get(url, timeout=120)
-    if response.status_code == 200 and response.text != '[]':
-        data = pd.DataFrame(response.json())
-        data['feccre'] = pd.to_datetime(data.feccre)
-        data.to_csv('data/cartografia/presentacion.csv', index=False)
+mun = get_municipios()
+times = get_timeline()
 
-def normalize(text):
-    return text.lower().strip()
-
-for departamento in departamentos:
-    get_departamento(departamento)
-resumen = pd.concat(resumen)
-resumen.sort_values(['departamento', 'provincia', 'municipio']).to_csv('data/cartografia/resumen.csv', index=False)
-update_timeline(resumen)
-update_presentacion()
+save_state(mun)
+save_daily(mun)
+save_weekly(times)

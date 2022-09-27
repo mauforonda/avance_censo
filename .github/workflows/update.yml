@@ -22,8 +22,6 @@ jobs:
           pip install -r update/requirements.txt
       - name: update data
         run: |
-          mkdir -p data/cartografia/departamentos/
-          mkdir -p data/convocatorias/
           python update/cartografia.py
           python update/convocatorias.py
       - name: commit
