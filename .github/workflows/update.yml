@@ -23,7 +23,6 @@ jobs:
       - name: update data
         run: |
           python update/cartografia.py
-          python update/convocatorias.py
       - name: commit
         run: |
           git config --global user.email "canceles_elevando@example.com"
