@@ -4,11 +4,13 @@ import datetime as dt
 import os
 
 def get_municipios():
+    # url = 'tablaMunicipio.json'
     url = 'https://wsmon.ine.gob.bo/dashboard/tablaMunicipio'
     dfi = pd.read_json(url)
     return dfi
 
 def get_timeline():
+    # url = 'tablaFecha.json'
     url = 'https://wsmon.ine.gob.bo/dashboard/tablaFecha'
     dfi = pd.read_json(url)
     for col in ['fecha_inicio', 'fecha_final']:
@@ -66,7 +68,7 @@ def save_daily_aggregate(mun):
 
     timeline = pd.concat([old, new]).reset_index().drop_duplicates(subset=['index'], keep='last').set_index('index').sort_index()
     timeline.index.name = 'fecha'
-    timeline.to_csv(fn)
+    timeline.loc[:ayer].to_csv(fn)
 
 mun = get_municipios()
 times = get_timeline()
