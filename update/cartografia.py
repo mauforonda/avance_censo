@@ -57,11 +57,13 @@ def save_daily_aggregate(mun):
     }
     ayer = dt.datetime.now().date() - dt.timedelta(days=1)
 
-    old = pd.read_csv('data/cartografia/old/presentacion.csv', parse_dates=['feccre'])
-    old['feccre'] = old.feccre.dt.date
-    old = old.rename(columns=departamentos).set_index('feccre')[departamentos.values()]
-    old.index.name = 'fecha'
-    old = old.sort_index().cumsum()
+    # old = pd.read_csv('data/cartografia/old/presentacion.csv', parse_dates=['feccre'])
+    # old['feccre'] = old.feccre.dt.date
+    # old = old.rename(columns=departamentos).set_index('feccre')[departamentos.values()]
+    # old.index.name = 'fecha'
+    # old = old.sort_index().cumsum()
+
+    old = pd.read_csv(fn, parse_dates=['fecha'], index_col=['fecha'])
 
     new = pd.DataFrame([m.groupby('nombre').viviendas.sum().to_dict()])
     new.index = [ayer]
