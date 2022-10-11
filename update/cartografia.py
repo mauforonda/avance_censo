@@ -20,8 +20,8 @@ def get_timeline():
 def save_weekly(times):
     fn = 'data/cartografia/semanal.csv'
     t = times.copy()
-    t.columns = ['departamento', 'semana', 'fecha_inicio', 'fecha_final', 'viviendas']
-    t.sort_values(['fecha_inicio', 'semana', 'departamento']).to_csv(fn, date_format='%Y-%m-%d', index=False)
+    t.columns = ['departamento', 'fecha_inicio', 'fecha_final', 'viviendas']
+    t.sort_values(['fecha_inicio', 'departamento']).to_csv(fn, date_format='%Y-%m-%d', index=False)
 
 def save_state(mun):
     m = mun.copy()
