@@ -6,16 +6,18 @@ import os
 def get_municipios():
     # url = 'tablaMunicipio.json'
     url = 'https://wsmon.ine.gob.bo/dashboard/tablaMunicipio'
+    columns = ['nombre', 'provincia', 'municipio', 'viviendas']
     dfi = pd.read_json(url)
-    return dfi
+    return dfi[columns]
 
 def get_timeline():
     # url = 'tablaFecha.json'
     url = 'https://wsmon.ine.gob.bo/dashboard/tablaFecha'
+    columns = ['nombre', 'fecha_inicio', 'fecha_final', 'viviendas']
     dfi = pd.read_json(url)
     for col in ['fecha_inicio', 'fecha_final']:
         dfi[col] = pd.to_datetime(dfi[col])
-    return dfi
+    return dfi[columns]
 
 def save_weekly(times):
     fn = 'data/cartografia/semanal.csv'
@@ -73,9 +75,9 @@ def save_daily_aggregate(mun):
     timeline.loc[:ayer].to_csv(fn)
 
 mun = get_municipios()
-#times = get_timeline()
+times = get_timeline()
 
 save_state(mun)
 save_daily(mun)
-#save_weekly(times)
+save_weekly(times)
 save_daily_aggregate(mun)
