@@ -73,9 +73,9 @@ def save_daily_aggregate(mun):
     timeline.loc[:ayer].to_csv(fn)
 
 mun = get_municipios()
-times = get_timeline()
+#times = get_timeline()
 
 save_state(mun)
 save_daily(mun)
-save_weekly(times)
+#save_weekly(times)
 save_daily_aggregate(mun)
