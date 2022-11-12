@@ -5,7 +5,8 @@ import datetime as dt
 import pytz
 
 """
-Actualiza el número de áreas 
+Descarga el número de áreas de trabajo en proceso o concluídas 
+en la actualización cartográfica estadística por municipio.
 """
 
 DIRECTORY = 'data/cartografia'
@@ -25,9 +26,11 @@ total.to_csv(
 )
 
 avance_filename = f'{DIRECTORY}/areas_concluidas_o_en_proceso.csv'
+avance = df[['fecha', 'codigo', 'sector']]
+avance.columns = ['fecha', 'codigo_municipio', 'areas']
 avance = pd.concat([
     pd.read_csv(avance_filename, parse_dates=['fecha']),
-    df[['fecha', 'codigo', 'sector']]
+    avance
 ])
 avance.to_csv(
     avance_filename,

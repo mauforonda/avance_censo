@@ -1,7 +1,7 @@
 name: Update
 on:
   schedule:
-    - cron: '0 5 * * *'
+    - cron: '0 4 * * *'
   workflow_dispatch:
 jobs:
   update:
@@ -22,7 +22,7 @@ jobs:
           pip install -r update/requirements.txt
       - name: update data
         run: |
-          python update/cartografia.py
+          python update/areas_cartografia.py
       - name: commit
         run: |
           git config --global user.email "canceles_elevando@example.com"
