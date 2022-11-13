@@ -21,7 +21,6 @@ total = df[['codigo', 'sectores_ace']]
 total.to_csv(
     f'{DIRECTORY}/areas_totales.csv',
     header=['codigo_municipio', 'areas'],
-    date_format='%Y-%m-%d',
     index=False
 )
 
@@ -32,9 +31,8 @@ avance = pd.concat([
     pd.read_csv(avance_filename, parse_dates=['fecha']),
     avance
 ])
+avance.fecha = avance.fecha.apply(lambda x: x.strftime('%Y-%m-%d'))
 avance.to_csv(
     avance_filename,
-    header=['fecha', 'codigo_municipio', 'areas'],
-    date_format='%Y-%m-%d',
     index=False
 )
