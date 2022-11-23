@@ -10,14 +10,14 @@ en la actualización cartográfica estadística por municipio.
 """
 
 DIRECTORY = 'data/cartografia'
-URL = "https://sigedv2.ine.gob.bo/geoserver/ows?service=WFS&request=GetFeature&typeName=seguimiento:vw_ac_2021_cartografia&outputFormat=csv"
-RELEVANT_COLUMNS = ["codigo","sectores_ace","sector"]
+URL = "https://sigedv2.ine.gob.bo/geoserver/ows?service=WFS&request=GetFeature&typeName=DASHBOARD:vw_municipio_proyeccion_sector_221122&outputFormat=csv"
+RELEVANT_COLUMNS = ["codigo","total_gral","concluido"]
 
 ayer = dt.datetime.now(tz=pytz.timezone('America/La_Paz')).replace() - dt.timedelta(days=1)
 df = pd.read_csv(URL)[RELEVANT_COLUMNS]
 df.insert(0, 'fecha', ayer)
 
-total = df[['codigo', 'sectores_ace']]
+total = df[['codigo', 'total_gral']]
 total.to_csv(
     f'{DIRECTORY}/areas_totales.csv',
     header=['codigo_municipio', 'areas'],
@@ -25,7 +25,7 @@ total.to_csv(
 )
 
 avance_filename = f'{DIRECTORY}/areas_concluidas_o_en_proceso.csv'
-avance = df[['fecha', 'codigo', 'sector']]
+avance = df[['fecha', 'codigo', 'concluido']]
 avance.columns = ['fecha', 'codigo_municipio', 'areas']
 avance = pd.concat([
     pd.read_csv(avance_filename, parse_dates=['fecha']),
